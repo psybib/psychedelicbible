@@ -1,0 +1,34 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Psychedelic Bible</title>
+      <link>https://www.psychedelicbible.org/blog</link>
+      <description>Respectful Insightful Chemicals</description>
+      <language>en-us</language>
+      <managingEditor> (Psychedelic Bible)</managingEditor>
+      <webMaster> (Psychedelic Bible)</webMaster>
+      <lastBuildDate>Fri, 13 Oct 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.psychedelicbible.org/tags/relaxation/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/remedy/how_to_make_your_own_chamomile_and_lavender_bath_soak_for_relaxation</guid>
+    <title>How to Make Your Own Chamomile and Lavender Bath Soak for Relaxation</title>
+    <link>https://www.psychedelicbible.org/blog/remedy/how_to_make_your_own_chamomile_and_lavender_bath_soak_for_relaxation</link>
+    <description>Discover the art of creating your own chamomile and lavender bath soak for ultimate relaxation and stress relief.</description>
+    <pubDate>Fri, 13 Oct 2023 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>Chamomile</category><category>Lavender</category><category>Bath Soak</category><category>Relaxation</category><category>DIY</category>
+  </item>
+
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/remedy/guide_to_crafting_a_homemade_herbal_bath_soak_for_relaxation</guid>
+    <title>Guide to Crafting a Homemade Herbal Bath Soak for Relaxation</title>
+    <link>https://www.psychedelicbible.org/blog/remedy/guide_to_crafting_a_homemade_herbal_bath_soak_for_relaxation</link>
+    <description>Discover the art and science behind creating your own herbal bath soak to promote relaxation and well-being. This guide offers a blend of shamanic wisdom with medical insights to help you utilize natural remedies effectively.</description>
+    <pubDate>Sat, 07 Oct 2023 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>Herbal Remedies</category><category>Relaxation</category><category>DIY</category>
+  </item>
+
+    </channel>
+  </rss>

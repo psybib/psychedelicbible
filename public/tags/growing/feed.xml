@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Psychedelic Bible</title>
+      <link>https://www.psychedelicbible.org/blog</link>
+      <description>Respectful Insightful Chemicals</description>
+      <language>en-us</language>
+      <managingEditor> (Psychedelic Bible)</managingEditor>
+      <webMaster> (Psychedelic Bible)</webMaster>
+      <lastBuildDate>Wed, 11 Oct 2017 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.psychedelicbible.org/tags/growing/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/MushroomGrow/Mushroom_Substrate_Preparation</guid>
+    <title>Mastering the Art of Mushroom Substrate Preparation</title>
+    <link>https://www.psychedelicbible.org/blog/MushroomGrow/Mushroom_Substrate_Preparation</link>
+    <description>An expertly crafted guide that unravels the scientific intricacies and shamanic wisdom behind preparing the perfect substrate for growing mushrooms.</description>
+    <pubDate>Wed, 11 Oct 2017 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>mushrooms</category><category>psychedelics</category><category>science</category><category>shamanism</category><category>substrate preparation</category><category>mycology</category><category>growing</category><category>spirituality</category>
+  </item>
+
+    </channel>
+  </rss>

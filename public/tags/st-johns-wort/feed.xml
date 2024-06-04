@@ -1,0 +1,34 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Psychedelic Bible</title>
+      <link>https://www.psychedelicbible.org/blog</link>
+      <description>Respectful Insightful Chemicals</description>
+      <language>en-us</language>
+      <managingEditor> (Psychedelic Bible)</managingEditor>
+      <webMaster> (Psychedelic Bible)</webMaster>
+      <lastBuildDate>Thu, 05 Oct 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.psychedelicbible.org/tags/st-johns-wort/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/remedy/diy_st_johns_wort_oil_for_mood_support</guid>
+    <title>DIY St. Johns Wort Oil for Mood Support</title>
+    <link>https://www.psychedelicbible.org/blog/remedy/diy_st_johns_wort_oil_for_mood_support</link>
+    <description>Explore the ancient technique of preparing St. Johns Wort oil to uplift mood and alleviate stress, infused with the knowledge of both shamanic traditions and modern science.</description>
+    <pubDate>Thu, 05 Oct 2023 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>Herbal Remedies</category><category>Mood Support</category><category>St. Johns Wort</category><category>DIY</category>
+  </item>
+
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/Health/stjohn</guid>
+    <title>St. John&#39;s Wort: Unlocking the Secrets of Nature&#39;s Mood Booster 🌿</title>
+    <link>https://www.psychedelicbible.org/blog/Health/stjohn</link>
+    <description>Discover the potential benefits and risks of St. John&#39;s Wort, a natural herbal remedy used for centuries to alleviate depression and improve mood. From its history to its modern applications, let&#39;s explore the secrets of this powerful plant. 🌼</description>
+    <pubDate>Sun, 21 May 2023 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>St. Johns Wort</category><category>Herbal Remedies</category><category>Mood Enhancement</category><category>Depression</category><category>Anxiety</category><category>Natural Healing</category>
+  </item>
+
+    </channel>
+  </rss>

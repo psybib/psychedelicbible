@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Psychedelic Bible</title>
+      <link>https://www.psychedelicbible.org/blog</link>
+      <description>Respectful Insightful Chemicals</description>
+      <language>en-us</language>
+      <managingEditor> (Psychedelic Bible)</managingEditor>
+      <webMaster> (Psychedelic Bible)</webMaster>
+      <lastBuildDate>Sun, 21 May 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.psychedelicbible.org/tags/syringe-tek/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/MushroomGrow/the_frugal_farmer</guid>
+    <title>The Frugal Farmers Mycelium Syringe Tek: Affordable Inoculation for the Masses</title>
+    <link>https://www.psychedelicbible.org/blog/MushroomGrow/the_frugal_farmer</link>
+    <description>Explore the alchemical blend of ancient wisdom and modern science in creating affordable mycelium syringes. From spores to harvest, this guide provides a metaphysical and practical approach to growing your own psychedelic mushrooms.</description>
+    <pubDate>Sun, 21 May 2023 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>psychedelics</category><category>mycology</category><category>syringe tek</category><category>DIY</category><category>affordable growing</category><category>shamanic wisdom</category><category>science</category><category>fungiculture</category><category>sustainable living</category>
+  </item>
+
+    </channel>
+  </rss>

@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Psychedelic Bible</title>
+      <link>https://www.psychedelicbible.org/blog</link>
+      <description>Respectful Insightful Chemicals</description>
+      <language>en-us</language>
+      <managingEditor> (Psychedelic Bible)</managingEditor>
+      <webMaster> (Psychedelic Bible)</webMaster>
+      <lastBuildDate>Thu, 09 May 2024 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.psychedelicbible.org/tags/hardwood-sawdust/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/MushroomGrow/fungi_alchemy_the_benefits_of_using_hardwood_sawdust_in_mushroom_cultivation</guid>
+    <title>Fungi Alchemy: The Benefits of Using Hardwood Sawdust in Mushroom Cultivation</title>
+    <link>https://www.psychedelicbible.org/blog/MushroomGrow/fungi_alchemy_the_benefits_of_using_hardwood_sawdust_in_mushroom_cultivation</link>
+    <description>An exploration into how hardwood sawdust reinvents mushroom cultivation by blending shamanic insights with scientific rigor.</description>
+    <pubDate>Thu, 09 May 2024 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>mushroom cultivation</category><category>hardwood sawdust</category><category>psychedelic science</category>
+  </item>
+
+    </channel>
+  </rss>

@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Psychedelic Bible</title>
+      <link>https://www.psychedelicbible.org/blog</link>
+      <description>Respectful Insightful Chemicals</description>
+      <language>en-us</language>
+      <managingEditor> (Psychedelic Bible)</managingEditor>
+      <webMaster> (Psychedelic Bible)</webMaster>
+      <lastBuildDate>Sat, 03 Oct 2020 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.psychedelicbible.org/tags/neurochemistry/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/Tryptamines/step_by_step_guide_to_synthesizing_novel_tryptamine_compounds</guid>
+    <title>Step-by-Step Guide to Synthesizing Novel Tryptamine Compounds</title>
+    <link>https://www.psychedelicbible.org/blog/Tryptamines/step_by_step_guide_to_synthesizing_novel_tryptamine_compounds</link>
+    <description>Explore the meticulous process and best practices for synthesizing novel tryptamine compounds in a technically advanced yet engaging manner.</description>
+    <pubDate>Sat, 03 Oct 2020 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>Psychedelics</category><category>Chemistry</category><category>Tryptamines</category><category>Safety</category><category>Synthesis</category><category>Innovation</category><category>Neurochemistry</category>
+  </item>
+
+    </channel>
+  </rss>

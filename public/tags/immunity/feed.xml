@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Psychedelic Bible</title>
+      <link>https://www.psychedelicbible.org/blog</link>
+      <description>Respectful Insightful Chemicals</description>
+      <language>en-us</language>
+      <managingEditor> (Psychedelic Bible)</managingEditor>
+      <webMaster> (Psychedelic Bible)</webMaster>
+      <lastBuildDate>Wed, 04 Oct 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.psychedelicbible.org/tags/immunity/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/unlocking_the_mysteries_of_kambo_a_frog_secretion_for_immunity_and_spiritual_cleansing</guid>
+    <title>Unlocking the Mysteries of Kambo: A Frog Secretion for Immunity and Spiritual Cleansing</title>
+    <link>https://www.psychedelicbible.org/blog/unlocking_the_mysteries_of_kambo_a_frog_secretion_for_immunity_and_spiritual_cleansing</link>
+    <description>Dive into the science and spirituality behind Kambo, a traditional Amazonian frog secretion said to boost immunity and provide an unparalleled spiritual cleansing experience.</description>
+    <pubDate>Wed, 04 Oct 2023 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>Health</category><category>Wellness</category><category>Immunity</category>
+  </item>
+
+    </channel>
+  </rss>

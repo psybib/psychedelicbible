@@ -1,0 +1,34 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Psychedelic Bible</title>
+      <link>https://www.psychedelicbible.org/blog</link>
+      <description>Respectful Insightful Chemicals</description>
+      <language>en-us</language>
+      <managingEditor> (Psychedelic Bible)</managingEditor>
+      <webMaster> (Psychedelic Bible)</webMaster>
+      <lastBuildDate>Tue, 10 Oct 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.psychedelicbible.org/tags/natural-health/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/remedy/guide_to_crafting_a_homemade_herbal_bath_bomb_for_relaxation</guid>
+    <title>Guide to Crafting a Homemade Herbal Bath Bomb for Relaxation</title>
+    <link>https://www.psychedelicbible.org/blog/remedy/guide_to_crafting_a_homemade_herbal_bath_bomb_for_relaxation</link>
+    <description>Discover the art and science behind creating your own herbal bath bombs, blending relaxation with natural healing.</description>
+    <pubDate>Tue, 10 Oct 2023 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>Herbal Remedies</category><category>DIY</category><category>Natural Health</category>
+  </item>
+
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/remedy/making_your_own_herbal_decongestant_balm_with_eucalyptus</guid>
+    <title>Making Your Own Herbal Decongestant Balm with Eucalyptus</title>
+    <link>https://www.psychedelicbible.org/blog/remedy/making_your_own_herbal_decongestant_balm_with_eucalyptus</link>
+    <description>Learn how to create a powerful, all-natural decongestant balm using eucalyptus and other holistic ingredients. Say goodbye to the sniffles with this easy, step-by-step guide.</description>
+    <pubDate>Thu, 05 Oct 2023 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>Herbal Remedies</category><category>DIY</category><category>Natural Health</category>
+  </item>
+
+    </channel>
+  </rss>

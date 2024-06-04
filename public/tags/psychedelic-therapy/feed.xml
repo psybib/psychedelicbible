@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Psychedelic Bible</title>
+      <link>https://www.psychedelicbible.org/blog</link>
+      <description>Respectful Insightful Chemicals</description>
+      <language>en-us</language>
+      <managingEditor> (Psychedelic Bible)</managingEditor>
+      <webMaster> (Psychedelic Bible)</webMaster>
+      <lastBuildDate>Thu, 21 Jul 2022 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.psychedelicbible.org/tags/psychedelic-therapy/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/MushroomGrow/the_secrets_of_successful_mushroom_spore_inoculation</guid>
+    <title>The Secrets of Successful Mushroom Spore Inoculation</title>
+    <link>https://www.psychedelicbible.org/blog/MushroomGrow/the_secrets_of_successful_mushroom_spore_inoculation</link>
+    <description>Unlock the hidden art of mushroom spore inoculation with a blend of scientific precision and shamanic time-honored wisdom.</description>
+    <pubDate>Thu, 21 Jul 2022 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>mycology</category><category>psychedelics</category><category>shamanism</category><category>science</category><category>spirituality</category><category>spore inoculation</category><category>cultivation</category><category>psychedelic therapy</category><category>mushrooms</category>
+  </item>
+
+    </channel>
+  </rss>

@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Psychedelic Bible</title>
+      <link>https://www.psychedelicbible.org/blog</link>
+      <description>Respectful Insightful Chemicals</description>
+      <language>en-us</language>
+      <managingEditor> (Psychedelic Bible)</managingEditor>
+      <webMaster> (Psychedelic Bible)</webMaster>
+      <lastBuildDate>Mon, 09 Oct 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.psychedelicbible.org/tags/personal-insight/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/unlocking_self_awareness_the_responsible_use_of_psychedelics</guid>
+    <title>Unlocking Self-Awareness: The Responsible Use of Psychedelics</title>
+    <link>https://www.psychedelicbible.org/blog/unlocking_self_awareness_the_responsible_use_of_psychedelics</link>
+    <description>Explore how the careful and informed use of psychedelics can lead to profound self-awareness and personal insight, bridging the gap between mind and spirit.</description>
+    <pubDate>Mon, 09 Oct 2023 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>Psychedelics</category><category>Self-Awareness</category><category>Personal Insight</category>
+  </item>
+
+    </channel>
+  </rss>

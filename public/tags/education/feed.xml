@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Psychedelic Bible</title>
+      <link>https://www.psychedelicbible.org/blog</link>
+      <description>Respectful Insightful Chemicals</description>
+      <language>en-us</language>
+      <managingEditor> (Psychedelic Bible)</managingEditor>
+      <webMaster> (Psychedelic Bible)</webMaster>
+      <lastBuildDate>Thu, 12 Oct 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.psychedelicbible.org/tags/education/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/MushroomGrow/the_importance_of_proper_mushroom_identification_and_safety</guid>
+    <title>The Importance of Proper Mushroom Identification and Safety</title>
+    <link>https://www.psychedelicbible.org/blog/MushroomGrow/the_importance_of_proper_mushroom_identification_and_safety</link>
+    <description>A comprehensive guide merging scientific rigor and shamanic wisdom on the paramount importance of identifying mushrooms correctly for safe consumption, delving into both the mystical and practical realms.</description>
+    <pubDate>Thu, 12 Oct 2023 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>mushrooms</category><category>mycology</category><category>psychedelics</category><category>safety</category><category>shamanic wisdom</category><category>science</category><category>nature</category><category>fungi</category><category>education</category>
+  </item>
+
+    </channel>
+  </rss>

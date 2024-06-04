@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Psychedelic Bible</title>
+      <link>https://www.psychedelicbible.org/blog</link>
+      <description>Respectful Insightful Chemicals</description>
+      <language>en-us</language>
+      <managingEditor> (Psychedelic Bible)</managingEditor>
+      <webMaster> (Psychedelic Bible)</webMaster>
+      <lastBuildDate>Mon, 09 Oct 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.psychedelicbible.org/tags/plantain/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/remedy/creating_a_diy_herbal_salve_with_plantain_for_cuts_and_scrapes</guid>
+    <title>Creating a DIY Herbal Salve with Plantain for Cuts and Scrapes</title>
+    <link>https://www.psychedelicbible.org/blog/remedy/creating_a_diy_herbal_salve_with_plantain_for_cuts_and_scrapes</link>
+    <description>Discover how to create a healing herbal salve using plantain for treating cuts and scrapes efficiently and naturally.</description>
+    <pubDate>Mon, 09 Oct 2023 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>Herbal Remedies</category><category>DIY</category><category>Plantain</category>
+  </item>
+
+    </channel>
+  </rss>

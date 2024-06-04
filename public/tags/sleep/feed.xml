@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Psychedelic Bible</title>
+      <link>https://www.psychedelicbible.org/blog</link>
+      <description>Respectful Insightful Chemicals</description>
+      <language>en-us</language>
+      <managingEditor> (Psychedelic Bible)</managingEditor>
+      <webMaster> (Psychedelic Bible)</webMaster>
+      <lastBuildDate>Tue, 03 Oct 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.psychedelicbible.org/tags/sleep/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/remedy/guide_to_making_your_own_chamomile_tea_for_relaxation_and_sleep</guid>
+    <title>Guide to Making Your Own Chamomile Tea for Relaxation and Sleep</title>
+    <link>https://www.psychedelicbible.org/blog/remedy/guide_to_making_your_own_chamomile_tea_for_relaxation_and_sleep</link>
+    <description>Learn how to make your own soothing chamomile tea to promote relaxation and improve sleep quality with this comprehensive guide.</description>
+    <pubDate>Tue, 03 Oct 2023 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>Herbal Remedies</category><category>Chamomile</category><category>Holistic Healing</category><category>Sleep</category>
+  </item>
+
+    </channel>
+  </rss>

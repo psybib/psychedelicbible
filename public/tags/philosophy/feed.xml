@@ -1,0 +1,34 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Psychedelic Bible</title>
+      <link>https://www.psychedelicbible.org/blog</link>
+      <description>Respectful Insightful Chemicals</description>
+      <language>en-us</language>
+      <managingEditor> (Psychedelic Bible)</managingEditor>
+      <webMaster> (Psychedelic Bible)</webMaster>
+      <lastBuildDate>Tue, 10 Oct 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.psychedelicbible.org/tags/philosophy/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/exploring_the_psychedelic_path_to_understanding_death_and_impermanence</guid>
+    <title>Exploring the Psychedelic Path to Understanding Death and Impermanence</title>
+    <link>https://www.psychedelicbible.org/blog/exploring_the_psychedelic_path_to_understanding_death_and_impermanence</link>
+    <description>Dive into the profound ways psychedelics can reshape our perception of death and impermanence, fostering greater acceptance and understanding.</description>
+    <pubDate>Tue, 10 Oct 2023 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>Psychedelics</category><category>Mental Health</category><category>Philosophy</category>
+  </item>
+
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/Idols/McKenna</guid>
+    <title>Terence McKenna: The Poet-Philosopher Who Shaped the Psychedelic Renaissance</title>
+    <link>https://www.psychedelicbible.org/blog/Idols/McKenna</link>
+    <description>Explore the life and cultural impact of Terence McKenna, the renowned ethnobotanist, philosopher, and psychedelic pioneer whose ideas and advocacy helped shape the modern psychedelic renaissance and influenced generations of thinkers, artists, and seekers of expanded consciousness.</description>
+    <pubDate>Tue, 04 May 2021 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>Consciousness</category><category>Counterculture</category><category>Philosophy</category>
+  </item>
+
+    </channel>
+  </rss>

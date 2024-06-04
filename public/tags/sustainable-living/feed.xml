@@ -1,0 +1,44 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Psychedelic Bible</title>
+      <link>https://www.psychedelicbible.org/blog</link>
+      <description>Respectful Insightful Chemicals</description>
+      <language>en-us</language>
+      <managingEditor> (Psychedelic Bible)</managingEditor>
+      <webMaster> (Psychedelic Bible)</webMaster>
+      <lastBuildDate>Sun, 21 May 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.psychedelicbible.org/tags/sustainable-living/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/MushroomGrow/the_benefits_of_using_straw_as_a_mushroom_substrate</guid>
+    <title>The Benefits of Using Straw as a Mushroom Substrate</title>
+    <link>https://www.psychedelicbible.org/blog/MushroomGrow/the_benefits_of_using_straw_as_a_mushroom_substrate</link>
+    <description>Explore the holistic advantages of using straw as a substrate for mushroom cultivation, blending modern science with shamanic insights to reveal the secrets of this ancient practice.</description>
+    <pubDate>Sun, 21 May 2023 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>Mushroom Cultivation</category><category>Psychedelic Science</category><category>Shamanic Wisdom</category><category>Fungi</category><category>Agriculture</category><category>Sustainable Living</category><category>Permaculture</category><category>Holistic Health</category><category>Organic Farming</category>
+  </item>
+
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/MushroomGrow/the_frugal_farmer</guid>
+    <title>The Frugal Farmers Mycelium Syringe Tek: Affordable Inoculation for the Masses</title>
+    <link>https://www.psychedelicbible.org/blog/MushroomGrow/the_frugal_farmer</link>
+    <description>Explore the alchemical blend of ancient wisdom and modern science in creating affordable mycelium syringes. From spores to harvest, this guide provides a metaphysical and practical approach to growing your own psychedelic mushrooms.</description>
+    <pubDate>Sun, 21 May 2023 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>psychedelics</category><category>mycology</category><category>syringe tek</category><category>DIY</category><category>affordable growing</category><category>shamanic wisdom</category><category>science</category><category>fungiculture</category><category>sustainable living</category>
+  </item>
+
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/Health/AGMB</guid>
+    <title>Building an Auto Grow Mushroom Box: A Comprehensive Guide 🍄</title>
+    <link>https://www.psychedelicbible.org/blog/Health/AGMB</link>
+    <description>Interested in growing your own mushrooms effortlessly? Learn how to build an Auto Grow Mushroom Box with this detailed guide. From microcontrollers to sensors, we cover everything you need to get started. 🌱</description>
+    <pubDate>Sun, 20 Mar 2022 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>Mushroom Growing</category><category>DIY Projects</category><category>Home Gardening</category><category>Technology</category><category>Microcontrollers</category><category>Sustainable Living</category>
+  </item>
+
+    </channel>
+  </rss>

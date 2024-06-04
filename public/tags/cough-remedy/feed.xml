@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Psychedelic Bible</title>
+      <link>https://www.psychedelicbible.org/blog</link>
+      <description>Respectful Insightful Chemicals</description>
+      <language>en-us</language>
+      <managingEditor> (Psychedelic Bible)</managingEditor>
+      <webMaster> (Psychedelic Bible)</webMaster>
+      <lastBuildDate>Mon, 02 Oct 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.psychedelicbible.org/tags/cough-remedy/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/remedy/creating_a_natural_cinnamon_and_honey_elixir_for_cough_relief</guid>
+    <title>Creating a Natural Cinnamon and Honey Elixir for Cough Relief</title>
+    <link>https://www.psychedelicbible.org/blog/remedy/creating_a_natural_cinnamon_and_honey_elixir_for_cough_relief</link>
+    <description>Discover the ancient and time-tested remedy of cinnamon and honey elixir for soothing coughs effectively. This blog post outlines detailed instructions and best practices for creating this natural healer at home.</description>
+    <pubDate>Mon, 02 Oct 2023 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>Holistic Healing</category><category>Natural Remedies</category><category>Cough Remedy</category><category>Herbal Medicine</category>
+  </item>
+
+    </channel>
+  </rss>

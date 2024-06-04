@@ -1,0 +1,34 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Psychedelic Bible</title>
+      <link>https://www.psychedelicbible.org/blog</link>
+      <description>Respectful Insightful Chemicals</description>
+      <language>en-us</language>
+      <managingEditor> (Psychedelic Bible)</managingEditor>
+      <webMaster> (Psychedelic Bible)</webMaster>
+      <lastBuildDate>Wed, 04 Oct 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.psychedelicbible.org/tags/cold-and-flu/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/remedy/creating_a_homemade_elderberry_syrup_for_cold_and_flu_prevention</guid>
+    <title>Creating a Homemade Elderberry Syrup for Cold and Flu Prevention</title>
+    <link>https://www.psychedelicbible.org/blog/remedy/creating_a_homemade_elderberry_syrup_for_cold_and_flu_prevention</link>
+    <description>Discover the ancient wisdom and modern science behind crafting your own elderberry syrup to bolster immunity and ward off colds and flu.</description>
+    <pubDate>Wed, 04 Oct 2023 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>Herbal Remedies</category><category>Holistic Healing</category><category>Cold and Flu</category>
+  </item>
+
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/remedy/diy_eucalyptus_shower_melts_for_cold_and_flu_relief</guid>
+    <title>DIY Eucalyptus Shower Melts for Cold and Flu Relief</title>
+    <link>https://www.psychedelicbible.org/blog/remedy/diy_eucalyptus_shower_melts_for_cold_and_flu_relief</link>
+    <description>Discover how to create eucalyptus shower melts at home for a natural, soothing remedy for cold and flu symptoms, backed by holistic and medical insights.</description>
+    <pubDate>Mon, 02 Oct 2023 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>Eucalyptus</category><category>Cold and Flu</category><category>Natural Remedies</category>
+  </item>
+
+    </channel>
+  </rss>

@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Psychedelic Bible</title>
+      <link>https://www.psychedelicbible.org/blog</link>
+      <description>Respectful Insightful Chemicals</description>
+      <language>en-us</language>
+      <managingEditor> (Psychedelic Bible)</managingEditor>
+      <webMaster> (Psychedelic Bible)</webMaster>
+      <lastBuildDate>Thu, 12 Oct 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.psychedelicbible.org/tags/social-justice/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/the_role_of_responsible_psychedelic_use_in_promoting_compassionate_social_justice_and_political_activism</guid>
+    <title>The Role of Responsible Psychedelic Use in Promoting Compassionate Social Justice and Political Activism</title>
+    <link>https://www.psychedelicbible.org/blog/the_role_of_responsible_psychedelic_use_in_promoting_compassionate_social_justice_and_political_activism</link>
+    <description>Exploring how the careful and conscious use of psychedelics can foster empathy, understanding, and effective activism in the realms of social justice and politics.</description>
+    <pubDate>Thu, 12 Oct 2023 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>Psychedelics</category><category>Social Justice</category><category>Political Activism</category>
+  </item>
+
+    </channel>
+  </rss>

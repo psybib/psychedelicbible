@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Psychedelic Bible</title>
+      <link>https://www.psychedelicbible.org/blog</link>
+      <description>Respectful Insightful Chemicals</description>
+      <language>en-us</language>
+      <managingEditor> (Psychedelic Bible)</managingEditor>
+      <webMaster> (Psychedelic Bible)</webMaster>
+      <lastBuildDate>Thu, 04 Oct 2018 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.psychedelicbible.org/tags/cultural-history/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/Culture/exploring_the_mythological_references_to_psychedelics_in_various_cultures</guid>
+    <title>Exploring the Mythological References to Psychedelics in Various Cultures</title>
+    <link>https://www.psychedelicbible.org/blog/Culture/exploring_the_mythological_references_to_psychedelics_in_various_cultures</link>
+    <description>Delve into the mesmerizing intersections of mythology and psychedelics across different cultures, featuring detailed narratives and molecular explorations.</description>
+    <pubDate>Thu, 04 Oct 2018 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>Psychedelics</category><category>Mythology</category><category>Cultural History</category>
+  </item>
+
+    </channel>
+  </rss>

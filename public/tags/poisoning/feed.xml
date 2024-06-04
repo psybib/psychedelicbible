@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Psychedelic Bible</title>
+      <link>https://www.psychedelicbible.org/blog</link>
+      <description>Respectful Insightful Chemicals</description>
+      <language>en-us</language>
+      <managingEditor> (Psychedelic Bible)</managingEditor>
+      <webMaster> (Psychedelic Bible)</webMaster>
+      <lastBuildDate>Thu, 05 Oct 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.psychedelicbible.org/tags/poisoning/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/the_shocking_reality_of_mushroom_poisoning_how_to_identify_and_avoid_toxic_mushroom_species</guid>
+    <title>The Shocking Reality of Mushroom Poisoning: How to Identify and Avoid Toxic Mushroom Species</title>
+    <link>https://www.psychedelicbible.org/blog/the_shocking_reality_of_mushroom_poisoning_how_to_identify_and_avoid_toxic_mushroom_species</link>
+    <description>Discover the fascinating yet risky world of mushrooms, learn to identify toxic species, and keep yourself safe while exploring nature’s bounty.</description>
+    <pubDate>Thu, 05 Oct 2023 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>Mushrooms</category><category>Poisoning</category><category>Nature</category>
+  </item>
+
+    </channel>
+  </rss>

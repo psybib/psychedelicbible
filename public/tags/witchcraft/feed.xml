@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Psychedelic Bible</title>
+      <link>https://www.psychedelicbible.org/blog</link>
+      <description>Respectful Insightful Chemicals</description>
+      <language>en-us</language>
+      <managingEditor> (Psychedelic Bible)</managingEditor>
+      <webMaster> (Psychedelic Bible)</webMaster>
+      <lastBuildDate>Sat, 12 Jan 2013 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.psychedelicbible.org/tags/witchcraft/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/Culture/historical_use_of_psychedelics_in_european_witchcraft_practices</guid>
+    <title>Historical Use of Psychedelics in European Witchcraft Practices</title>
+    <link>https://www.psychedelicbible.org/blog/Culture/historical_use_of_psychedelics_in_european_witchcraft_practices</link>
+    <description>Explore the enigmatic intersection of psychedelics and witchcraft in European history, delving into ancient practices, notable substances, and the chemistry behind the magic.</description>
+    <pubDate>Sat, 12 Jan 2013 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>History</category><category>Psychedelics</category><category>Witchcraft</category>
+  </item>
+
+    </channel>
+  </rss>

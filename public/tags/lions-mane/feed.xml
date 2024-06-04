@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Psychedelic Bible</title>
+      <link>https://www.psychedelicbible.org/blog</link>
+      <description>Respectful Insightful Chemicals</description>
+      <language>en-us</language>
+      <managingEditor> (Psychedelic Bible)</managingEditor>
+      <webMaster> (Psychedelic Bible)</webMaster>
+      <lastBuildDate>Sun, 21 May 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.psychedelicbible.org/tags/lions-mane/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/fungus/cross</guid>
+    <title>Theoretical Approaches to Cross-Breeding Mushroom Species 🍄🔬</title>
+    <link>https://www.psychedelicbible.org/blog/fungus/cross</link>
+    <description>Explore innovative methods and supplements to facilitate the cross-breeding of mushroom species like Lion’s Mane and Cordyceps. Delve into the science behind mycelial fusion and discover how to create novel fungal hybrids. 🍄🔬</description>
+    <pubDate>Sun, 21 May 2023 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>Mushroom Cultivation</category><category>Cross-Breeding</category><category>Fungi</category><category>Mycology</category><category>Lion’s Mane</category><category>Cordyceps</category><category>Bioengineering</category><category>Agriculture</category><category>Science</category>
+  </item>
+
+    </channel>
+  </rss>

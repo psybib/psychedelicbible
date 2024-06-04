@@ -1,0 +1,44 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Psychedelic Bible</title>
+      <link>https://www.psychedelicbible.org/blog</link>
+      <description>Respectful Insightful Chemicals</description>
+      <language>en-us</language>
+      <managingEditor> (Psychedelic Bible)</managingEditor>
+      <webMaster> (Psychedelic Bible)</webMaster>
+      <lastBuildDate>Tue, 10 Oct 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.psychedelicbible.org/tags/immune-support/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/remedy/creating_a_natural_ginger_and_honey_elixir_for_immune_support</guid>
+    <title>Creating a Natural Ginger and Honey Elixir for Immune Support</title>
+    <link>https://www.psychedelicbible.org/blog/remedy/creating_a_natural_ginger_and_honey_elixir_for_immune_support</link>
+    <description>Learn to make a powerful ginger and honey elixir to boost your immune system naturally, using time-tested methods and modern scientific insights.</description>
+    <pubDate>Tue, 10 Oct 2023 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>Holistic Healing</category><category>Natural Remedies</category><category>Immune Support</category>
+  </item>
+
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/remedy/how_to_craft_a_natural_rosehip_syrup_for_immune_support</guid>
+    <title>How to Craft a Natural Rosehip Syrup for Immune Support</title>
+    <link>https://www.psychedelicbible.org/blog/remedy/how_to_craft_a_natural_rosehip_syrup_for_immune_support</link>
+    <description>Discover the ancient art of crafting rosehip syrup to bolster your immune system naturally, with a step-by-step guide that blends shamanic wisdom and advanced medical insights.</description>
+    <pubDate>Tue, 10 Oct 2023 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>Natural Remedies</category><category>Immune Support</category><category>Rosehip</category>
+  </item>
+
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/remedy/diy_echinacea_tincture_for_immune_system_support</guid>
+    <title>DIY Echinacea Tincture for Immune System Support</title>
+    <link>https://www.psychedelicbible.org/blog/remedy/diy_echinacea_tincture_for_immune_system_support</link>
+    <description>Learn how to create your own powerful Echinacea tincture to bolster your immune system naturally. This in-depth guide covers the benefits, step-by-step instructions, and best practices for making a high-quality tincture.</description>
+    <pubDate>Thu, 05 Oct 2023 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>Herbal Medicine</category><category>Echinacea</category><category>Immune Support</category>
+  </item>
+
+    </channel>
+  </rss>

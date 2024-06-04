@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Psychedelic Bible</title>
+      <link>https://www.psychedelicbible.org/blog</link>
+      <description>Respectful Insightful Chemicals</description>
+      <language>en-us</language>
+      <managingEditor> (Psychedelic Bible)</managingEditor>
+      <webMaster> (Psychedelic Bible)</webMaster>
+      <lastBuildDate>Sun, 01 Oct 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.psychedelicbible.org/tags/mdma/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/exploring_mdma_assisted_therapy_for_ptsd_a_new_dawn_in_mental_health_treatment</guid>
+    <title>Exploring MDMA-Assisted Therapy for PTSD: A New Dawn in Mental Health Treatment</title>
+    <link>https://www.psychedelicbible.org/blog/exploring_mdma_assisted_therapy_for_ptsd_a_new_dawn_in_mental_health_treatment</link>
+    <description>A deep dive into how MDMA-assisted therapy is revolutionizing the treatment of PTSD, bringing hope and healing to those who need it most.</description>
+    <pubDate>Sun, 01 Oct 2023 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>PTSD</category><category>MDMA</category><category>Mental Health</category><category>Therapy</category><category>Innovation</category>
+  </item>
+
+    </channel>
+  </rss>

@@ -1,0 +1,44 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Psychedelic Bible</title>
+      <link>https://www.psychedelicbible.org/blog</link>
+      <description>Respectful Insightful Chemicals</description>
+      <language>en-us</language>
+      <managingEditor> (Psychedelic Bible)</managingEditor>
+      <webMaster> (Psychedelic Bible)</webMaster>
+      <lastBuildDate>Thu, 12 Oct 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.psychedelicbible.org/tags/herbal-tea/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/remedy/how_to_make_your_own_marshmallow_root_tea_for_throat_relief</guid>
+    <title>How to Make Your Own Marshmallow Root Tea for Throat Relief</title>
+    <link>https://www.psychedelicbible.org/blog/remedy/how_to_make_your_own_marshmallow_root_tea_for_throat_relief</link>
+    <description>Discover the shamanic wisdom and scientific insights behind making marshmallow root tea, a time-honored remedy for soothing sore throats and respiratory issues.</description>
+    <pubDate>Thu, 12 Oct 2023 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>Holistic Healing</category><category>Natural Remedies</category><category>Herbal Tea</category>
+  </item>
+
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/remedy/harnessing_the_power_of_burdock_root_for_detoxifying_herbal_tea</guid>
+    <title>Harnessing the Power of Burdock Root for Detoxifying Herbal Tea</title>
+    <link>https://www.psychedelicbible.org/blog/remedy/harnessing_the_power_of_burdock_root_for_detoxifying_herbal_tea</link>
+    <description>Discover the ancient practice of using burdock root to create a detoxifying herbal tea. Learn the steps, benefits, and best practices for integrating this powerful plant medicine into your wellness routine.</description>
+    <pubDate>Tue, 10 Oct 2023 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>Burdock Root</category><category>Detox</category><category>Herbal Tea</category><category>Holistic Healing</category>
+  </item>
+
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/remedy/making_a_diy_lavender_and_chamomile_sleep_aid_tea</guid>
+    <title>Making a DIY Lavender and Chamomile Sleep Aid Tea</title>
+    <link>https://www.psychedelicbible.org/blog/remedy/making_a_diy_lavender_and_chamomile_sleep_aid_tea</link>
+    <description>Discover the ancient wisdom and modern science behind creating a soothing Lavender and Chamomile Sleep Aid Tea to enhance your nightly repose.</description>
+    <pubDate>Sun, 08 Oct 2023 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>Herbal Tea</category><category>Sleep Aid</category><category>DIY Remedies</category>
+  </item>
+
+    </channel>
+  </rss>

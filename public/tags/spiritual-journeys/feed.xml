@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Psychedelic Bible</title>
+      <link>https://www.psychedelicbible.org/blog</link>
+      <description>Respectful Insightful Chemicals</description>
+      <language>en-us</language>
+      <managingEditor> (Psychedelic Bible)</managingEditor>
+      <webMaster> (Psychedelic Bible)</webMaster>
+      <lastBuildDate>Mon, 18 Mar 2019 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.psychedelicbible.org/tags/spiritual-journeys/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/Mescalito/how_peyote_was_used_by_native_american_tribes_for_spiritual_journeys</guid>
+    <title>How Peyote Was Used by Native American Tribes</title>
+    <link>https://www.psychedelicbible.org/blog/Mescalito/how_peyote_was_used_by_native_american_tribes_for_spiritual_journeys</link>
+    <description>Exploring the ancient, mystical use of Peyote among Native American tribes, combining shamanic wisdom and modern chemistry to unravel its spiritual and physiological effects.</description>
+    <pubDate>Mon, 18 Mar 2019 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>Peyote</category><category>Psychedelics</category><category>Native American</category><category>Spiritual Journeys</category>
+  </item>
+
+    </channel>
+  </rss>

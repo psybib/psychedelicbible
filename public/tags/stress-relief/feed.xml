@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Psychedelic Bible</title>
+      <link>https://www.psychedelicbible.org/blog</link>
+      <description>Respectful Insightful Chemicals</description>
+      <language>en-us</language>
+      <managingEditor> (Psychedelic Bible)</managingEditor>
+      <webMaster> (Psychedelic Bible)</webMaster>
+      <lastBuildDate>Sun, 08 Oct 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.psychedelicbible.org/tags/stress-relief/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/remedy/using_lemon_balm_to_create_a_natural_stress_relief_tea</guid>
+    <title>Using Lemon Balm to Create a Natural Stress Relief Tea</title>
+    <link>https://www.psychedelicbible.org/blog/remedy/using_lemon_balm_to_create_a_natural_stress_relief_tea</link>
+    <description>Discover the ancient art of using lemon balm to brew a soothing, natural stress relief tea. This guide offers step-by-step instructions, backed by both shamanic wisdom and modern scientific insights.</description>
+    <pubDate>Sun, 08 Oct 2023 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>Herbal Remedies</category><category>Stress Relief</category><category>Lemon Balm</category>
+  </item>
+
+    </channel>
+  </rss>

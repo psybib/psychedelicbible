@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Psychedelic Bible</title>
+      <link>https://www.psychedelicbible.org/blog</link>
+      <description>Respectful Insightful Chemicals</description>
+      <language>en-us</language>
+      <managingEditor> (Psychedelic Bible)</managingEditor>
+      <webMaster> (Psychedelic Bible)</webMaster>
+      <lastBuildDate>Wed, 04 Oct 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.psychedelicbible.org/tags/antiviral-drugs/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/you_wont_believe_how_mushrooms_are_helping_scientists_develop_new_antibiotics_and_antiviral_drugs</guid>
+    <title>You Wont Believe How Mushrooms are Helping Scientists Develop New Antibiotics and Antiviral Drugs</title>
+    <link>https://www.psychedelicbible.org/blog/you_wont_believe_how_mushrooms_are_helping_scientists_develop_new_antibiotics_and_antiviral_drugs</link>
+    <description>Mushrooms are not just a delicious addition to your meals, but they are also at the forefront of revolutionary research in antibiotics and antiviral drugs development. Discover how these fungi are changing the game in biotechnology</description>
+    <pubDate>Wed, 04 Oct 2023 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>Mushrooms</category><category>Antibiotics</category><category>Antiviral Drugs</category><category>Biotechnology</category>
+  </item>
+
+    </channel>
+  </rss>

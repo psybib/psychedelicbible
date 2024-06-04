@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Psychedelic Bible</title>
+      <link>https://www.psychedelicbible.org/blog</link>
+      <description>Respectful Insightful Chemicals</description>
+      <language>en-us</language>
+      <managingEditor> (Psychedelic Bible)</managingEditor>
+      <webMaster> (Psychedelic Bible)</webMaster>
+      <lastBuildDate>Tue, 05 Oct 2021 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.psychedelicbible.org/tags/vegetarian/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/5_delicious_and_nutritious_mushroom_recipes_every_vegetarian_should_try</guid>
+    <title>5 Delicious and Nutritious Mushroom Recipes Every Vegetarian Should Try</title>
+    <link>https://www.psychedelicbible.org/blog/5_delicious_and_nutritious_mushroom_recipes_every_vegetarian_should_try</link>
+    <description>Elevate your vegetarian meals with these five mouthwatering and nutrient-packed mushroom recipes</description>
+    <pubDate>Tue, 05 Oct 2021 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>Vegetarian</category><category>Mushrooms</category><category>Recipes</category><category>Nutrition</category>
+  </item>
+
+    </channel>
+  </rss>

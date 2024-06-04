@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Psychedelic Bible</title>
+      <link>https://www.psychedelicbible.org/blog</link>
+      <description>Respectful Insightful Chemicals</description>
+      <language>en-us</language>
+      <managingEditor> (Psychedelic Bible)</managingEditor>
+      <webMaster> (Psychedelic Bible)</webMaster>
+      <lastBuildDate>Sat, 21 May 2022 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.psychedelicbible.org/tags/storage/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/MushroomGrow/mastering_the_art_of_mushroom_harvesting_and_storage</guid>
+    <title>Mastering the Art of Mushroom Harvesting and Storage</title>
+    <link>https://www.psychedelicbible.org/blog/MushroomGrow/mastering_the_art_of_mushroom_harvesting_and_storage</link>
+    <description>A deep dive into the meticulous art of harvesting and storing psychedelic mushrooms, blending cutting-edge science with ancient shamanic wisdom to ensure both potency and spiritual integrity.</description>
+    <pubDate>Sat, 21 May 2022 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>Psychedelics</category><category>Mushrooms</category><category>Science</category><category>Mysticism</category><category>Shamanism</category><category>Safety</category><category>Harvesting</category><category>Storage</category><category>Mycology</category>
+  </item>
+
+    </channel>
+  </rss>

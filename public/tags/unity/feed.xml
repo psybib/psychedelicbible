@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Psychedelic Bible</title>
+      <link>https://www.psychedelicbible.org/blog</link>
+      <description>Respectful Insightful Chemicals</description>
+      <language>en-us</language>
+      <managingEditor> (Psychedelic Bible)</managingEditor>
+      <webMaster> (Psychedelic Bible)</webMaster>
+      <lastBuildDate>Tue, 10 Oct 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.psychedelicbible.org/tags/unity/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/the_responsible_use_of_psychedelics_fostering_unity_with_all_living_beings</guid>
+    <title>The Responsible Use of Psychedelics: Fostering Unity with All Living Beings</title>
+    <link>https://www.psychedelicbible.org/blog/the_responsible_use_of_psychedelics_fostering_unity_with_all_living_beings</link>
+    <description>Exploring how the responsible use of psychedelics can promote a greater sense of connection and unity with all living beings, weaving together the threads of neuroscience, psychology, and spiritual traditions.</description>
+    <pubDate>Tue, 10 Oct 2023 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>Psychedelics</category><category>Connection</category><category>Unity</category><category>Wellness</category>
+  </item>
+
+    </channel>
+  </rss>

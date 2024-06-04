@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Psychedelic Bible</title>
+      <link>https://www.psychedelicbible.org/blog</link>
+      <description>Respectful Insightful Chemicals</description>
+      <language>en-us</language>
+      <managingEditor> (Psychedelic Bible)</managingEditor>
+      <webMaster> (Psychedelic Bible)</webMaster>
+      <lastBuildDate>Thu, 12 Oct 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.psychedelicbible.org/tags/wound-healing/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/remedy/creating_a_homemade_yarrow_oil_for_wound_healing</guid>
+    <title>Creating a Homemade Yarrow Oil for Wound Healing</title>
+    <link>https://www.psychedelicbible.org/blog/remedy/creating_a_homemade_yarrow_oil_for_wound_healing</link>
+    <description>Discover how to craft your own yarrow oil, an age-old herbal remedy known for its powerful wound healing properties.</description>
+    <pubDate>Thu, 12 Oct 2023 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>Yarrow</category><category>Herbal Remedies</category><category>Wound Healing</category>
+  </item>
+
+    </channel>
+  </rss>

@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Psychedelic Bible</title>
+      <link>https://www.psychedelicbible.org/blog</link>
+      <description>Respectful Insightful Chemicals</description>
+      <language>en-us</language>
+      <managingEditor> (Psychedelic Bible)</managingEditor>
+      <webMaster> (Psychedelic Bible)</webMaster>
+      <lastBuildDate>Tue, 10 Oct 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.psychedelicbible.org/tags/eating-disorders/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/the_revolutionary_role_of_psychedelics_in_treating_eating_disorders</guid>
+    <title>The Revolutionary Role of Psychedelics in Treating Eating Disorders</title>
+    <link>https://www.psychedelicbible.org/blog/the_revolutionary_role_of_psychedelics_in_treating_eating_disorders</link>
+    <description>Exploring the potential of psychedelics in the therapeutic treatment of eating disorders such as anorexia and bulimia, highlighting their ability to unlock new pathways to recovery.</description>
+    <pubDate>Tue, 10 Oct 2023 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>Psychedelics</category><category>Therapy</category><category>Eating Disorders</category>
+  </item>
+
+    </channel>
+  </rss>

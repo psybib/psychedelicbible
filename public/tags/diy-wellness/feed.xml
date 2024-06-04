@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Psychedelic Bible</title>
+      <link>https://www.psychedelicbible.org/blog</link>
+      <description>Respectful Insightful Chemicals</description>
+      <language>en-us</language>
+      <managingEditor> (Psychedelic Bible)</managingEditor>
+      <webMaster> (Psychedelic Bible)</webMaster>
+      <lastBuildDate>Fri, 06 Oct 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.psychedelicbible.org/tags/diy-wellness/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/remedy/guide_to_crafting_a_homemade_ginger_and_turmeric_wellness_shot</guid>
+    <title>Guide to Crafting a Homemade Ginger and Turmeric Wellness Shot</title>
+    <link>https://www.psychedelicbible.org/blog/remedy/guide_to_crafting_a_homemade_ginger_and_turmeric_wellness_shot</link>
+    <description>Delve into the profound benefits of homemade ginger and turmeric wellness shots. This guide offers a thorough tutorial on crafting this potent elixir, blending shamanic wisdom with medical insights.</description>
+    <pubDate>Fri, 06 Oct 2023 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>Holistic Medicine</category><category>Natural Remedies</category><category>DIY Wellness</category>
+  </item>
+
+    </channel>
+  </rss>

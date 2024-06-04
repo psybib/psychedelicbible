@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Psychedelic Bible</title>
+      <link>https://www.psychedelicbible.org/blog</link>
+      <description>Respectful Insightful Chemicals</description>
+      <language>en-us</language>
+      <managingEditor> (Psychedelic Bible)</managingEditor>
+      <webMaster> (Psychedelic Bible)</webMaster>
+      <lastBuildDate>Mon, 02 Oct 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.psychedelicbible.org/tags/eye-strain/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/remedy/how_to_prepare_a_herbal_chamomile_eye_compress_for_eye_strain</guid>
+    <title>How to Prepare a Herbal Chamomile Eye Compress for Eye Strain</title>
+    <link>https://www.psychedelicbible.org/blog/remedy/how_to_prepare_a_herbal_chamomile_eye_compress_for_eye_strain</link>
+    <description>Discover the art and science of creating a soothing chamomile eye compress to alleviate eye strain and promote holistic ocular health.</description>
+    <pubDate>Mon, 02 Oct 2023 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>Herbal Remedies</category><category>Chamomile</category><category>Eye Strain</category>
+  </item>
+
+    </channel>
+  </rss>

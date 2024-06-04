@@ -1,0 +1,34 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Psychedelic Bible</title>
+      <link>https://www.psychedelicbible.org/blog</link>
+      <description>Respectful Insightful Chemicals</description>
+      <language>en-us</language>
+      <managingEditor> (Psychedelic Bible)</managingEditor>
+      <webMaster> (Psychedelic Bible)</webMaster>
+      <lastBuildDate>Mon, 21 Nov 2022 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.psychedelicbible.org/tags/shamanic-practices/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/MushroomGrow/understanding_the_role_of_temperature_and_humidity_in_mushroom_fruiting</guid>
+    <title>Understanding the Role of Temperature and Humidity in Mushroom Fruiting</title>
+    <link>https://www.psychedelicbible.org/blog/MushroomGrow/understanding_the_role_of_temperature_and_humidity_in_mushroom_fruiting</link>
+    <description>Delve into the intricate dance of temperature and humidity that orchestrates the lifecycle of mushrooms, blending scientific rigor with age-old shamanic wisdom.</description>
+    <pubDate>Mon, 21 Nov 2022 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>mushroom cultivation</category><category>temperature</category><category>humidity</category><category>psychedelics</category><category>shamanic practices</category><category>mycology</category><category>science</category><category>spirituality</category><category>fungi</category>
+  </item>
+
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/Culture/exploring_the_use_of_psychoactive_snuffs_in_south_american_cultures</guid>
+    <title>Exploring the Use of Psychoactive Snuffs in South American Cultures: A Fusion of Ancient Wisdom and Modern Science</title>
+    <link>https://www.psychedelicbible.org/blog/Culture/exploring_the_use_of_psychoactive_snuffs_in_south_american_cultures</link>
+    <description>A deep dive into the traditional and contemporary use of psychoactive snuffs across South America, detailing their cultural significance and the chemicals involved.</description>
+    <pubDate>Mon, 10 Oct 2016 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>Psychedelics</category><category>South America</category><category>Ethnobotany</category><category>Shamanic Practices</category><category>Ancient Traditions</category><category>Modern Science</category><category>Pharmacology</category><category>Mental Health</category><category>Anthropology</category>
+  </item>
+
+    </channel>
+  </rss>

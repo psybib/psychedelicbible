@@ -1,0 +1,34 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Psychedelic Bible</title>
+      <link>https://www.psychedelicbible.org/blog</link>
+      <description>Respectful Insightful Chemicals</description>
+      <language>en-us</language>
+      <managingEditor> (Psychedelic Bible)</managingEditor>
+      <webMaster> (Psychedelic Bible)</webMaster>
+      <lastBuildDate>Sun, 01 Oct 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.psychedelicbible.org/tags/ethics/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/legal_and_ethical_considerations_surrounding_psychedelics_in_clinical_settings</guid>
+    <title>Legal and Ethical Considerations Surrounding Psychedelics in Clinical Settings</title>
+    <link>https://www.psychedelicbible.org/blog/legal_and_ethical_considerations_surrounding_psychedelics_in_clinical_settings</link>
+    <description>Explore the intricate legal and ethical dimensions of using psychedelics in clinical settings, and envision a future where these powerful substances redefine modern medicine.</description>
+    <pubDate>Sun, 01 Oct 2023 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>Psychedelics</category><category>Healthcare</category><category>Ethics</category><category>Law</category>
+  </item>
+
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/History/exploring_the_boundaries_of_psychoactive_chemical_synthesis</guid>
+    <title>Exploring the Boundaries of Psychoactive Chemical Synthesis</title>
+    <link>https://www.psychedelicbible.org/blog/History/exploring_the_boundaries_of_psychoactive_chemical_synthesis</link>
+    <description>Dive into the intricacies of synthesizing psychoactive compounds and understand the best practices, ethical considerations, and potential future applications.</description>
+    <pubDate>Mon, 10 Oct 2022 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>Psychedelics</category><category>Chemical Synthesis</category><category>Pharmacology</category><category>Ethics</category><category>History</category><category>Future Directions</category>
+  </item>
+
+    </channel>
+  </rss>

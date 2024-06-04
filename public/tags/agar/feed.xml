@@ -1,0 +1,34 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Psychedelic Bible</title>
+      <link>https://www.psychedelicbible.org/blog</link>
+      <description>Respectful Insightful Chemicals</description>
+      <language>en-us</language>
+      <managingEditor> (Psychedelic Bible)</managingEditor>
+      <webMaster> (Psychedelic Bible)</webMaster>
+      <lastBuildDate>Mon, 20 May 2024 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.psychedelicbible.org/tags/agar/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/MushroomGrow/brown_rice_flour_agar_revolution_accessible_and_reliable_agar_substitute_for_every_grower</guid>
+    <title>Brown Rice Flour Agar Revolution: Accessible and Reliable Agar Substitute for Every Grower</title>
+    <link>https://www.psychedelicbible.org/blog/MushroomGrow/brown_rice_flour_agar_revolution_accessible_and_reliable_agar_substitute_for_every_grower</link>
+    <description>Explore the innovative leap in mushroom cultivation with Brown Rice Flour Agar (BRFA). We delve into its scientific background and mystical potential, making it the ideal substrate for mycologists around the world.</description>
+    <pubDate>Mon, 20 May 2024 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>Mycology</category><category>Psychedelics</category><category>Agar</category><category>Cultivation</category><category>Shamanism</category>
+  </item>
+
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/MushroomGrow/the_asian_agar_advantage_unconventional_wisdom_for_superior_results</guid>
+    <title>The Asian Agar Advantage: Unconventional Wisdom for Superior Results</title>
+    <link>https://www.psychedelicbible.org/blog/MushroomGrow/the_asian_agar_advantage_unconventional_wisdom_for_superior_results</link>
+    <description>Explore the fusion of advanced science and mystical wisdom in the cultivation of mushrooms using Asian agar methods for unbeatable results.</description>
+    <pubDate>Sun, 21 May 2023 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>Psychedelics</category><category>Mushroom Cultivation</category><category>Agar</category><category>Science</category><category>Mysticism</category><category>Asia</category><category>Shamanism</category><category>Cultural Practices</category><category>Fungi</category>
+  </item>
+
+    </channel>
+  </rss>

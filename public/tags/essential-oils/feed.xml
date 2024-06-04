@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Psychedelic Bible</title>
+      <link>https://www.psychedelicbible.org/blog</link>
+      <description>Respectful Insightful Chemicals</description>
+      <language>en-us</language>
+      <managingEditor> (Psychedelic Bible)</managingEditor>
+      <webMaster> (Psychedelic Bible)</webMaster>
+      <lastBuildDate>Sat, 07 Oct 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.psychedelicbible.org/tags/essential-oils/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/remedy/diy_lavender_and_rosemary_hair_oil_for_growth_and_strength</guid>
+    <title>DIY Lavender and Rosemary Hair Oil for Growth and Strength</title>
+    <link>https://www.psychedelicbible.org/blog/remedy/diy_lavender_and_rosemary_hair_oil_for_growth_and_strength</link>
+    <description>Unlock the ancient secrets to luscious, strong hair with this comprehensive guide on creating a DIY lavender and rosemary hair oil. Whether youre battling hair loss or seeking to improve your hairs health, this blend offers powerful benefits.</description>
+    <pubDate>Sat, 07 Oct 2023 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>Hair Care</category><category>Natural Remedies</category><category>Essential Oils</category>
+  </item>
+
+    </channel>
+  </rss>

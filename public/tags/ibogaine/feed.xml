@@ -1,0 +1,44 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Psychedelic Bible</title>
+      <link>https://www.psychedelicbible.org/blog</link>
+      <description>Respectful Insightful Chemicals</description>
+      <language>en-us</language>
+      <managingEditor> (Psychedelic Bible)</managingEditor>
+      <webMaster> (Psychedelic Bible)</webMaster>
+      <lastBuildDate>Fri, 13 Oct 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.psychedelicbible.org/tags/ibogaine/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/exploring_the_potential_benefits_and_risks_of_using_ibogaine_for_treating_addiction</guid>
+    <title>Exploring the Potential Benefits of Using Ibogaine for Treating Addiction</title>
+    <link>https://www.psychedelicbible.org/blog/exploring_the_potential_benefits_and_risks_of_using_ibogaine_for_treating_addiction</link>
+    <description>Dive deep into the intriguing world of Ibogaine, a compound showing promise in addiction treatment. Learn about its potential benefits, scientific foundations, and the critical risks associated with its use.</description>
+    <pubDate>Fri, 13 Oct 2023 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>Ibogaine</category><category>Addiction</category><category>HealthTech</category><category>Innovation</category>
+  </item>
+
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/exploring_the_potential_benefits_and_risks_of_using_iboga_root_bark</guid>
+    <title>Exploring the Potential Benefits and Risks of Using Iboga Root Bark</title>
+    <link>https://www.psychedelicbible.org/blog/exploring_the_potential_benefits_and_risks_of_using_iboga_root_bark</link>
+    <description>Dive into the exciting world of iboga root bark, its potential therapeutic benefits, and the risks associated with its use. Lets unravel the mysteries of this powerful natural substance together.</description>
+    <pubDate>Thu, 05 Oct 2023 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>Ibogaine</category><category>Natural Medicine</category><category>Health</category>
+  </item>
+
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/Health/ibogaine</guid>
+    <title>Ibogaine: Pharmacological Profile, Anti-Addiction Properties, and Spiritual Impact 🌿✨</title>
+    <link>https://www.psychedelicbible.org/blog/Health/ibogaine</link>
+    <description>Explore the potential of ibogaine as a transformative treatment for addiction. Delve into its pharmacological makeup, therapeutic applications, and the profound spiritual impact it can have on individuals seeking recovery. 🌿💊🧠</description>
+    <pubDate>Sun, 22 May 2022 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>Ibogaine</category><category>Addiction Treatment</category><category>Psychedelics</category><category>Pharmacology</category><category>Mental Health</category><category>Spiritual Healing</category><category>Neuropharmacology</category><category>Therapeutic Benefits</category><category>Alternative Medicine</category>
+  </item>
+
+    </channel>
+  </rss>

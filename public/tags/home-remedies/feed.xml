@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Psychedelic Bible</title>
+      <link>https://www.psychedelicbible.org/blog</link>
+      <description>Respectful Insightful Chemicals</description>
+      <language>en-us</language>
+      <managingEditor> (Psychedelic Bible)</managingEditor>
+      <webMaster> (Psychedelic Bible)</webMaster>
+      <lastBuildDate>Thu, 05 Oct 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.psychedelicbible.org/tags/home-remedies/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/remedy/making_chamomile_oil_at_home_for_skin_soothing</guid>
+    <title>Making Chamomile Oil at Home for Skin Soothing</title>
+    <link>https://www.psychedelicbible.org/blog/remedy/making_chamomile_oil_at_home_for_skin_soothing</link>
+    <description>Discover the art and science of creating your own skin-soothing chamomile oil at home. This guide walks you through each step of the process with shamanic wisdom and detailed medical insights.</description>
+    <pubDate>Thu, 05 Oct 2023 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>Chamomile</category><category>Home Remedies</category><category>Holistic Healing</category><category>Skin Care</category>
+  </item>
+
+    </channel>
+  </rss>

@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Psychedelic Bible</title>
+      <link>https://www.psychedelicbible.org/blog</link>
+      <description>Respectful Insightful Chemicals</description>
+      <language>en-us</language>
+      <managingEditor> (Psychedelic Bible)</managingEditor>
+      <webMaster> (Psychedelic Bible)</webMaster>
+      <lastBuildDate>Sun, 01 Oct 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.psychedelicbible.org/tags/stinging-nettle/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/remedy/guide_to_crafting_a_herbal_stinging_nettle_hair_rinse</guid>
+    <title>Guide to Crafting a Herbal Stinging Nettle Hair Rinse</title>
+    <link>https://www.psychedelicbible.org/blog/remedy/guide_to_crafting_a_herbal_stinging_nettle_hair_rinse</link>
+    <description>Explore the art of creating a nourishing, natural stinging nettle hair rinse to invigorate your scalp and enhance hair health. Learn about its benefits, preparation methods, and application tips.</description>
+    <pubDate>Sun, 01 Oct 2023 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>Herbal Remedies</category><category>Hair Care</category><category>Stinging Nettle</category>
+  </item>
+
+    </channel>
+  </rss>

@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Psychedelic Bible</title>
+      <link>https://www.psychedelicbible.org/blog</link>
+      <description>Respectful Insightful Chemicals</description>
+      <language>en-us</language>
+      <managingEditor> (Psychedelic Bible)</managingEditor>
+      <webMaster> (Psychedelic Bible)</webMaster>
+      <lastBuildDate>Tue, 17 Oct 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.psychedelicbible.org/tags/ocd/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/exploring_the_potential_of_psychedelics_in_treating_ocd</guid>
+    <title>Exploring the Potential of Psychedelics in Treating OCD</title>
+    <link>https://www.psychedelicbible.org/blog/exploring_the_potential_of_psychedelics_in_treating_ocd</link>
+    <description>Dive deep into the promising world of psychedelic therapy and discover how these substances can potentially reshape the treatment landscape for individuals with obsessive-compulsive disorder (OCD).</description>
+    <pubDate>Tue, 17 Oct 2023 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>Psychedelics</category><category>Mental Health</category><category>OCD</category>
+  </item>
+
+    </channel>
+  </rss>

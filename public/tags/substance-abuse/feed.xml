@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Psychedelic Bible</title>
+      <link>https://www.psychedelicbible.org/blog</link>
+      <description>Respectful Insightful Chemicals</description>
+      <language>en-us</language>
+      <managingEditor> (Psychedelic Bible)</managingEditor>
+      <webMaster> (Psychedelic Bible)</webMaster>
+      <lastBuildDate>Thu, 05 Oct 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.psychedelicbible.org/tags/substance-abuse/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/exploring_the_frontier_psychedelics_in_the_treatment_of_substance_abuse_disorders</guid>
+    <title>Exploring the Frontier: Psychedelics in the Treatment of Substance Abuse Disorders</title>
+    <link>https://www.psychedelicbible.org/blog/exploring_the_frontier_psychedelics_in_the_treatment_of_substance_abuse_disorders</link>
+    <description>A deep dive into the promising research on using psychedelics to treat cocaine and methamphetamine addiction, including current findings, ongoing studies, and future possibilities.</description>
+    <pubDate>Thu, 05 Oct 2023 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>Psychedelics</category><category>Substance Abuse</category><category>Addiction Treatment</category>
+  </item>
+
+    </channel>
+  </rss>

@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Psychedelic Bible</title>
+      <link>https://www.psychedelicbible.org/blog</link>
+      <description>Respectful Insightful Chemicals</description>
+      <language>en-us</language>
+      <managingEditor> (Psychedelic Bible)</managingEditor>
+      <webMaster> (Psychedelic Bible)</webMaster>
+      <lastBuildDate>Thu, 05 Oct 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.psychedelicbible.org/tags/social-connectedness/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/the_empathy_revolution_how_psychedelics_promote_compassion_and_social_connectedness</guid>
+    <title>The Empathy Revolution: How Psychedelics Promote Compassion and Social Connectedness</title>
+    <link>https://www.psychedelicbible.org/blog/the_empathy_revolution_how_psychedelics_promote_compassion_and_social_connectedness</link>
+    <description>Explore how the use of psychedelics can foster empathy, compassion, and social connectedness, promoting a more humane and interconnected society.</description>
+    <pubDate>Thu, 05 Oct 2023 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>Psychedelics</category><category>Empathy</category><category>Compassion</category><category>Social Connectedness</category>
+  </item>
+
+    </channel>
+  </rss>

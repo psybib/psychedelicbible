@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Psychedelic Bible</title>
+      <link>https://www.psychedelicbible.org/blog</link>
+      <description>Respectful Insightful Chemicals</description>
+      <language>en-us</language>
+      <managingEditor> (Psychedelic Bible)</managingEditor>
+      <webMaster> (Psychedelic Bible)</webMaster>
+      <lastBuildDate>Mon, 23 Oct 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.psychedelicbible.org/tags/natural-skincare/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/remedy/guide_to_crafting_a_homemade_herbal_face_scrub_with_oats_and_honey</guid>
+    <title>Guide to Crafting a Homemade Herbal Face Scrub with Oats and Honey</title>
+    <link>https://www.psychedelicbible.org/blog/remedy/guide_to_crafting_a_homemade_herbal_face_scrub_with_oats_and_honey</link>
+    <description>Discover the shamanic wisdom and scientific benefits of creating your own herbal face scrub with oats and honey. This detailed guide offers step-by-step instructions, best practices, and the therapeutic merits of each ingredient.</description>
+    <pubDate>Mon, 23 Oct 2023 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>Herbal Remedies</category><category>Natural Skincare</category><category>DIY Beauty</category>
+  </item>
+
+    </channel>
+  </rss>

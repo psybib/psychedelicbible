@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Psychedelic Bible</title>
+      <link>https://www.psychedelicbible.org/blog</link>
+      <description>Respectful Insightful Chemicals</description>
+      <language>en-us</language>
+      <managingEditor> (Psychedelic Bible)</managingEditor>
+      <webMaster> (Psychedelic Bible)</webMaster>
+      <lastBuildDate>Fri, 13 Oct 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.psychedelicbible.org/tags/honey/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/remedy/creating_a_natural_turmeric_and_honey_face_mask_for_skin_glow</guid>
+    <title>Creating a Natural Turmeric and Honey Face Mask for Skin Glow</title>
+    <link>https://www.psychedelicbible.org/blog/remedy/creating_a_natural_turmeric_and_honey_face_mask_for_skin_glow</link>
+    <description>Discover the ancient wisdom of using turmeric and honey to create a natural face mask that promotes radiant, glowing skin.</description>
+    <pubDate>Fri, 13 Oct 2023 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>Turmeric</category><category>Honey</category><category>Skincare</category><category>Natural Remedies</category><category>Holistic Healing</category>
+  </item>
+
+    </channel>
+  </rss>

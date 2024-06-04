@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Psychedelic Bible</title>
+      <link>https://www.psychedelicbible.org/blog</link>
+      <description>Respectful Insightful Chemicals</description>
+      <language>en-us</language>
+      <managingEditor> (Psychedelic Bible)</managingEditor>
+      <webMaster> (Psychedelic Bible)</webMaster>
+      <lastBuildDate>Fri, 06 Oct 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.psychedelicbible.org/tags/thyme-tea/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/remedy/creating_a_natural_thyme_tea_for_respiratory_health</guid>
+    <title>Creating a Natural Thyme Tea for Respiratory Health</title>
+    <link>https://www.psychedelicbible.org/blog/remedy/creating_a_natural_thyme_tea_for_respiratory_health</link>
+    <description>Explore the ancient and scientifically-backed benefits of thyme tea for respiratory health. Learn how to prepare this potent brew and discover its therapeutic properties.</description>
+    <pubDate>Fri, 06 Oct 2023 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>Herbal Remedies</category><category>Respiratory Health</category><category>Thyme Tea</category>
+  </item>
+
+    </channel>
+  </rss>

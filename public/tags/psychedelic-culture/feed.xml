@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Psychedelic Bible</title>
+      <link>https://www.psychedelicbible.org/blog</link>
+      <description>Respectful Insightful Chemicals</description>
+      <language>en-us</language>
+      <managingEditor> (Psychedelic Bible)</managingEditor>
+      <webMaster> (Psychedelic Bible)</webMaster>
+      <lastBuildDate>Thu, 21 May 2020 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.psychedelicbible.org/tags/psychedelic-culture/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/MushroomGrow/the_alchemical_dance_importance_of_proper_mushroom_lab_safety_protocols</guid>
+    <title>The Alchemical Dance: Importance of Proper Mushroom Lab Safety Protocols</title>
+    <link>https://www.psychedelicbible.org/blog/MushroomGrow/the_alchemical_dance_importance_of_proper_mushroom_lab_safety_protocols</link>
+    <description>A deep dive into the intricate balance of meticulous lab protocols and mystical insights essential for the responsible cultivation of psychedelic mushrooms.</description>
+    <pubDate>Thu, 21 May 2020 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>mushroom cultivation</category><category>psychedelics</category><category>lab safety</category><category>shamanic wisdom</category><category>mycology</category><category>science</category><category>mind expansion</category><category>alchemy</category><category>psychedelic culture</category>
+  </item>
+
+    </channel>
+  </rss>

@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Psychedelic Bible</title>
+      <link>https://www.psychedelicbible.org/blog</link>
+      <description>Respectful Insightful Chemicals</description>
+      <language>en-us</language>
+      <managingEditor> (Psychedelic Bible)</managingEditor>
+      <webMaster> (Psychedelic Bible)</webMaster>
+      <lastBuildDate>Sun, 08 Oct 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.psychedelicbible.org/tags/traditional-healing/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/unlocking_indigenous_wisdom_through_the_lens_of_psychedelics</guid>
+    <title>Unlocking Indigenous Wisdom Through the Lens of Psychedelics</title>
+    <link>https://www.psychedelicbible.org/blog/unlocking_indigenous_wisdom_through_the_lens_of_psychedelics</link>
+    <description>Discover how the integration of psychedelics can enhance our understanding and appreciation of indigenous wisdom and traditional healing practices.</description>
+    <pubDate>Sun, 08 Oct 2023 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>Psychedelics</category><category>Indigenous Wisdom</category><category>Traditional Healing</category>
+  </item>
+
+    </channel>
+  </rss>

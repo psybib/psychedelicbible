@@ -1,0 +1,54 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Psychedelic Bible</title>
+      <link>https://www.psychedelicbible.org/blog</link>
+      <description>Respectful Insightful Chemicals</description>
+      <language>en-us</language>
+      <managingEditor> (Psychedelic Bible)</managingEditor>
+      <webMaster> (Psychedelic Bible)</webMaster>
+      <lastBuildDate>Sat, 07 Oct 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.psychedelicbible.org/tags/plant-medicines/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/the_role_of_shamanism_and_traditional_healers_in_the_use_of_plant_medicines_like_ayahuasca</guid>
+    <title>The Role of Shamanism and Traditional Healers in the Use of Plant Medicines like Ayahuasca</title>
+    <link>https://www.psychedelicbible.org/blog/the_role_of_shamanism_and_traditional_healers_in_the_use_of_plant_medicines_like_ayahuasca</link>
+    <description>Explore the fascinating interplay between shamanism, traditional healers, and the use of powerful plant medicines like ayahuasca.</description>
+    <pubDate>Sat, 07 Oct 2023 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>Shamanism</category><category>Ayahuasca</category><category>Traditional Medicine</category><category>Plant Medicines</category>
+  </item>
+
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/the_role_of_community_and_social_support_in_the_safe_and_beneficial_use_of_psychedelics_and_plant_medicines</guid>
+    <title>The Role of Community and Social Support in the Safe and Beneficial Use of Psychedelics and Plant Medicines</title>
+    <link>https://www.psychedelicbible.org/blog/the_role_of_community_and_social_support_in_the_safe_and_beneficial_use_of_psychedelics_and_plant_medicines</link>
+    <description>Exploring the importance of community and social support in the safe and effective use of psychedelics and plant medicines for personal growth, healing, and beyond.</description>
+    <pubDate>Thu, 05 Oct 2023 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>Psychedelics</category><category>Plant Medicines</category><category>Community Support</category>
+  </item>
+
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/remedy/making_a_diy_plantain_poultice_for_bug_bites</guid>
+    <title>Making a DIY Plantain Poultice for Bug Bites</title>
+    <link>https://www.psychedelicbible.org/blog/remedy/making_a_diy_plantain_poultice_for_bug_bites</link>
+    <description>Discover the power of plantain in alleviating bug bites with a simple DIY poultice. Learn the step-by-step process, benefits, and science behind this natural remedy.</description>
+    <pubDate>Mon, 02 Oct 2023 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>Plant Medicines</category><category>Natural Remedies</category><category>Holistic Healing</category>
+  </item>
+
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/Health/plantmeds</guid>
+    <title>Plant Medicines for Anti-Anxiety and Nootropics 🌿🧠</title>
+    <link>https://www.psychedelicbible.org/blog/Health/plantmeds</link>
+    <description>Plant medicines have been used for centuries to treat a variety of conditions, including anxiety and cognitive impairment. Discover some of the most well-known plant medicines that have been shown to be effective in treating anxiety and improving cognitive function.</description>
+    <pubDate>Sat, 21 Jan 2023 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>Health</category><category>Plant Medicines</category><category>Anxiety</category><category>Nootropics</category>
+  </item>
+
+    </channel>
+  </rss>

@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Psychedelic Bible</title>
+      <link>https://www.psychedelicbible.org/blog</link>
+      <description>Respectful Insightful Chemicals</description>
+      <language>en-us</language>
+      <managingEditor> (Psychedelic Bible)</managingEditor>
+      <webMaster> (Psychedelic Bible)</webMaster>
+      <lastBuildDate>Mon, 24 Apr 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.psychedelicbible.org/tags/wimhof/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/Idols/Wim</guid>
+    <title>❄️ Wim Hof: The Iceman, His Revolutionary Breathing Method, and Extraordinary Feats ❄️</title>
+    <link>https://www.psychedelicbible.org/blog/Idols/Wim</link>
+    <description>Explore the life and achievements of Wim Hof, the Iceman, and learn about his groundbreaking Wim Hof Method that combines cold exposure, breathing techniques, and meditation.</description>
+    <pubDate>Mon, 24 Apr 2023 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>WimHof</category><category>Breathing</category><category>Cold</category>
+  </item>
+
+    </channel>
+  </rss>

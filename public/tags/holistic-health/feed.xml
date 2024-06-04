@@ -1,0 +1,54 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Psychedelic Bible</title>
+      <link>https://www.psychedelicbible.org/blog</link>
+      <description>Respectful Insightful Chemicals</description>
+      <language>en-us</language>
+      <managingEditor> (Psychedelic Bible)</managingEditor>
+      <webMaster> (Psychedelic Bible)</webMaster>
+      <lastBuildDate>Wed, 04 Oct 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.psychedelicbible.org/tags/holistic-health/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/remedy/how_to_make_a_natural_herbal_mouthwash_with_sage_and_thyme</guid>
+    <title>How to Make a Natural Herbal Mouthwash with Sage and Thyme</title>
+    <link>https://www.psychedelicbible.org/blog/remedy/how_to_make_a_natural_herbal_mouthwash_with_sage_and_thyme</link>
+    <description>Discover the art and science behind creating your own natural herbal mouthwash using the powerful antiseptic properties of sage and thyme.</description>
+    <pubDate>Wed, 04 Oct 2023 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>Herbal Remedies</category><category>Natural Healing</category><category>Holistic Health</category>
+  </item>
+
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/remedy/how_to_make_your_own_sage_and_honey_cough_syrup</guid>
+    <title>How to Make Your Own Sage and Honey Cough Syrup</title>
+    <link>https://www.psychedelicbible.org/blog/remedy/how_to_make_your_own_sage_and_honey_cough_syrup</link>
+    <description>Discover the shamanic and scientifically-backed approach to crafting your own sage and honey cough syrup, a potent remedy for respiratory health.</description>
+    <pubDate>Mon, 02 Oct 2023 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>Herbal Medicine</category><category>Natural Remedies</category><category>Holistic Health</category>
+  </item>
+
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/Culture/exploring_the_intersection_of_psychedelics_and_eastern_philosophies</guid>
+    <title>Exploring the Intersection of Psychedelics and Eastern Philosophies</title>
+    <link>https://www.psychedelicbible.org/blog/Culture/exploring_the_intersection_of_psychedelics_and_eastern_philosophies</link>
+    <description>Dive into the fascinating convergence of psychedelics and Eastern philosophies, unpacking their intertwined histories, shared methodologies, and the potential future of this potent symbiosis.</description>
+    <pubDate>Sun, 01 Oct 2023 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>Psychedelics</category><category>Eastern Philosophies</category><category>Mindfulness</category><category>Meditation</category><category>Neuroplasticity</category><category>Spirituality</category><category>Holistic Health</category><category>Shamanism</category><category>Modern Science</category>
+  </item>
+
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/MushroomGrow/the_benefits_of_using_straw_as_a_mushroom_substrate</guid>
+    <title>The Benefits of Using Straw as a Mushroom Substrate</title>
+    <link>https://www.psychedelicbible.org/blog/MushroomGrow/the_benefits_of_using_straw_as_a_mushroom_substrate</link>
+    <description>Explore the holistic advantages of using straw as a substrate for mushroom cultivation, blending modern science with shamanic insights to reveal the secrets of this ancient practice.</description>
+    <pubDate>Sun, 21 May 2023 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>Mushroom Cultivation</category><category>Psychedelic Science</category><category>Shamanic Wisdom</category><category>Fungi</category><category>Agriculture</category><category>Sustainable Living</category><category>Permaculture</category><category>Holistic Health</category><category>Organic Farming</category>
+  </item>
+
+    </channel>
+  </rss>

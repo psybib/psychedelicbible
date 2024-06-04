@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Psychedelic Bible</title>
+      <link>https://www.psychedelicbible.org/blog</link>
+      <description>Respectful Insightful Chemicals</description>
+      <language>en-us</language>
+      <managingEditor> (Psychedelic Bible)</managingEditor>
+      <webMaster> (Psychedelic Bible)</webMaster>
+      <lastBuildDate>Mon, 21 Nov 2022 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.psychedelicbible.org/tags/temperature/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/MushroomGrow/understanding_the_role_of_temperature_and_humidity_in_mushroom_fruiting</guid>
+    <title>Understanding the Role of Temperature and Humidity in Mushroom Fruiting</title>
+    <link>https://www.psychedelicbible.org/blog/MushroomGrow/understanding_the_role_of_temperature_and_humidity_in_mushroom_fruiting</link>
+    <description>Delve into the intricate dance of temperature and humidity that orchestrates the lifecycle of mushrooms, blending scientific rigor with age-old shamanic wisdom.</description>
+    <pubDate>Mon, 21 Nov 2022 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>mushroom cultivation</category><category>temperature</category><category>humidity</category><category>psychedelics</category><category>shamanic practices</category><category>mycology</category><category>science</category><category>spirituality</category><category>fungi</category>
+  </item>
+
+    </channel>
+  </rss>

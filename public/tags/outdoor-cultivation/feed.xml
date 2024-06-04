@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Psychedelic Bible</title>
+      <link>https://www.psychedelicbible.org/blog</link>
+      <description>Respectful Insightful Chemicals</description>
+      <language>en-us</language>
+      <managingEditor> (Psychedelic Bible)</managingEditor>
+      <webMaster> (Psychedelic Bible)</webMaster>
+      <lastBuildDate>Sun, 08 Oct 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.psychedelicbible.org/tags/outdoor-cultivation/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/MushroomGrow/how_to_create_a_successful_outdoor_mushroom_patch</guid>
+    <title>How to Create a Successful Outdoor Mushroom Patch</title>
+    <link>https://www.psychedelicbible.org/blog/MushroomGrow/how_to_create_a_successful_outdoor_mushroom_patch</link>
+    <description>A comprehensive guide to cultivating mushrooms outdoors, blending advanced scientific techniques with ancient shamanic wisdom.</description>
+    <pubDate>Sun, 08 Oct 2023 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>mushrooms</category><category>outdoor cultivation</category><category>mycology</category><category>psychedelic science</category>
+  </item>
+
+    </channel>
+  </rss>

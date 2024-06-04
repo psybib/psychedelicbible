@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Psychedelic Bible</title>
+      <link>https://www.psychedelicbible.org/blog</link>
+      <description>Respectful Insightful Chemicals</description>
+      <language>en-us</language>
+      <managingEditor> (Psychedelic Bible)</managingEditor>
+      <webMaster> (Psychedelic Bible)</webMaster>
+      <lastBuildDate>Thu, 05 Oct 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.psychedelicbible.org/tags/bath-salts/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/remedy/diy_arnica_and_lavender_bath_salts_for_muscle_relaxation</guid>
+    <title>DIY Arnica and Lavender Bath Salts for Muscle Relaxation</title>
+    <link>https://www.psychedelicbible.org/blog/remedy/diy_arnica_and_lavender_bath_salts_for_muscle_relaxation</link>
+    <description>Discover how to create your own arnica and lavender bath salts to soothe muscle tension and promote relaxation with our detailed guide.</description>
+    <pubDate>Thu, 05 Oct 2023 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>Arnica</category><category>Lavender</category><category>Bath Salts</category><category>Muscle Relaxation</category><category>Natural Remedies</category>
+  </item>
+
+    </channel>
+  </rss>

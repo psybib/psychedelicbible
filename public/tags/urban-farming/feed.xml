@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Psychedelic Bible</title>
+      <link>https://www.psychedelicbible.org/blog</link>
+      <description>Respectful Insightful Chemicals</description>
+      <language>en-us</language>
+      <managingEditor> (Psychedelic Bible)</managingEditor>
+      <webMaster> (Psychedelic Bible)</webMaster>
+      <lastBuildDate>Mon, 15 Jan 2018 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.psychedelicbible.org/tags/urban-farming/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/MushroomGrow/mycelial_urban_dreams_how_to_incorporate_mushroom_cultivation_into_urban_farming_systems</guid>
+    <title>Mycelial Urban Dreams: How to Incorporate Mushroom Cultivation into Urban Farming Systems</title>
+    <link>https://www.psychedelicbible.org/blog/MushroomGrow/mycelial_urban_dreams_how_to_incorporate_mushroom_cultivation_into_urban_farming_systems</link>
+    <description>A deep dive into merging the ancient wisdom of mushroom cultivation with urban farming, fusing shamanic perspectives and cutting-edge science to grow more than just food in our cities.</description>
+    <pubDate>Mon, 15 Jan 2018 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>Mushroom Cultivation</category><category>Urban Farming</category><category>Psychedelics</category><category>Mycology</category><category>Sustainability</category><category>Shamanism</category><category>Science</category><category>Agriculture</category><category>Ecology</category>
+  </item>
+
+    </channel>
+  </rss>

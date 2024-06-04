@@ -1,0 +1,34 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Psychedelic Bible</title>
+      <link>https://www.psychedelicbible.org/blog</link>
+      <description>Respectful Insightful Chemicals</description>
+      <language>en-us</language>
+      <managingEditor> (Psychedelic Bible)</managingEditor>
+      <webMaster> (Psychedelic Bible)</webMaster>
+      <lastBuildDate>Fri, 21 Jul 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.psychedelicbible.org/tags/mind-expansion/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/MushroomGrow/rye_grain_mastery_perfecting_your_spawn_production_for_optimal_mycelium_growth</guid>
+    <title>Rye Grain Mastery: Perfecting Your Spawn Production for Optimal Mycelium Growth</title>
+    <link>https://www.psychedelicbible.org/blog/MushroomGrow/rye_grain_mastery_perfecting_your_spawn_production_for_optimal_mycelium_growth</link>
+    <description>Dive into the art and science of rye grain spawn production, blending cutting-edge mycological techniques with ancient shamanic wisdom to cultivate potent mycelium efficiently.</description>
+    <pubDate>Fri, 21 Jul 2023 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>mycology</category><category>psychedelics</category><category>shamanism</category><category>spiritual growth</category><category>science</category><category>fungiculture</category><category>mind expansion</category><category>mushrooms</category><category>mycelium</category>
+  </item>
+
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/MushroomGrow/the_alchemical_dance_importance_of_proper_mushroom_lab_safety_protocols</guid>
+    <title>The Alchemical Dance: Importance of Proper Mushroom Lab Safety Protocols</title>
+    <link>https://www.psychedelicbible.org/blog/MushroomGrow/the_alchemical_dance_importance_of_proper_mushroom_lab_safety_protocols</link>
+    <description>A deep dive into the intricate balance of meticulous lab protocols and mystical insights essential for the responsible cultivation of psychedelic mushrooms.</description>
+    <pubDate>Thu, 21 May 2020 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>mushroom cultivation</category><category>psychedelics</category><category>lab safety</category><category>shamanic wisdom</category><category>mycology</category><category>science</category><category>mind expansion</category><category>alchemy</category><category>psychedelic culture</category>
+  </item>
+
+    </channel>
+  </rss>

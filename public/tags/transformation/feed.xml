@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Psychedelic Bible</title>
+      <link>https://www.psychedelicbible.org/blog</link>
+      <description>Respectful Insightful Chemicals</description>
+      <language>en-us</language>
+      <managingEditor> (Psychedelic Bible)</managingEditor>
+      <webMaster> (Psychedelic Bible)</webMaster>
+      <lastBuildDate>Fri, 06 Oct 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.psychedelicbible.org/tags/transformation/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/the_crucial_role_of_set_and_setting_in_psychedelic_journeys</guid>
+    <title>The Crucial Role of Set and Setting in Psychedelic Journeys</title>
+    <link>https://www.psychedelicbible.org/blog/the_crucial_role_of_set_and_setting_in_psychedelic_journeys</link>
+    <description>Explore how the concepts of set and setting can make or break a psychedelic experience, guiding users toward safety and transformation.</description>
+    <pubDate>Fri, 06 Oct 2023 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>Psychedelics</category><category>Mental Health</category><category>Transformation</category>
+  </item>
+
+    </channel>
+  </rss>

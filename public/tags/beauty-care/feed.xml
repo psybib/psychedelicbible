@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Psychedelic Bible</title>
+      <link>https://www.psychedelicbible.org/blog</link>
+      <description>Respectful Insightful Chemicals</description>
+      <language>en-us</language>
+      <managingEditor> (Psychedelic Bible)</managingEditor>
+      <webMaster> (Psychedelic Bible)</webMaster>
+      <lastBuildDate>Wed, 04 Oct 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.psychedelicbible.org/tags/beauty-care/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/remedy/guide_to_crafting_a_homemade_peppermint_and_lemon_balm_lip_scrub</guid>
+    <title>Guide to Crafting a Homemade Peppermint and Lemon Balm Lip Scrub</title>
+    <link>https://www.psychedelicbible.org/blog/remedy/guide_to_crafting_a_homemade_peppermint_and_lemon_balm_lip_scrub</link>
+    <description>Dive into the alchemy of nature to create a rejuvenating lip scrub. This guide blends the cooling essence of peppermint with the soothing properties of lemon balm for an unparalleled lip care experience.</description>
+    <pubDate>Wed, 04 Oct 2023 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>Holistic Healing</category><category>Natural Remedies</category><category>Beauty Care</category>
+  </item>
+
+    </channel>
+  </rss>

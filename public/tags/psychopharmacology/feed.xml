@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Psychedelic Bible</title>
+      <link>https://www.psychedelicbible.org/blog</link>
+      <description>Respectful Insightful Chemicals</description>
+      <language>en-us</language>
+      <managingEditor> (Psychedelic Bible)</managingEditor>
+      <webMaster> (Psychedelic Bible)</webMaster>
+      <lastBuildDate>Mon, 05 Oct 2020 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.psychedelicbible.org/tags/psychopharmacology/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/Tryptamines/developing_efficient_methods_for_synthesizing_tryptamine_derivatives</guid>
+    <title>Developing Efficient Methods for Synthesizing Tryptamine Derivatives</title>
+    <link>https://www.psychedelicbible.org/blog/Tryptamines/developing_efficient_methods_for_synthesizing_tryptamine_derivatives</link>
+    <description>Dive deep into the intricate processes and innovations surrounding the synthesis of tryptamine derivatives—key compounds in the realm of psychedelics, interweaving shamanic wisdom with advanced chemical engineering techniques.</description>
+    <pubDate>Mon, 05 Oct 2020 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>Psychedelics</category><category>Chemistry</category><category>Synthesis</category><category>Spirituality</category><category>Psychopharmacology</category><category>Modern Science</category><category>Alchemy</category>
+  </item>
+
+    </channel>
+  </rss>

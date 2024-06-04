@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Psychedelic Bible</title>
+      <link>https://www.psychedelicbible.org/blog</link>
+      <description>Respectful Insightful Chemicals</description>
+      <language>en-us</language>
+      <managingEditor> (Psychedelic Bible)</managingEditor>
+      <webMaster> (Psychedelic Bible)</webMaster>
+      <lastBuildDate>Sun, 08 Oct 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.psychedelicbible.org/tags/peer-support/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/the_role_of_psychedelic_peer_support_groups_in_providing_a_safe_and_supportive_community_for_psychonauts</guid>
+    <title>The Role of Psychedelic Peer Support Groups in Providing a Safe and Supportive Community for Psychonauts</title>
+    <link>https://www.psychedelicbible.org/blog/the_role_of_psychedelic_peer_support_groups_in_providing_a_safe_and_supportive_community_for_psychonauts</link>
+    <description>Dive into the world of psychedelic peer support groups, exploring how these communities foster safety, growth, and camaraderie among individuals navigating the profound experiences of psychedelics.</description>
+    <pubDate>Sun, 08 Oct 2023 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>Psychedelics</category><category>Peer Support</category><category>Mental Health</category>
+  </item>
+
+    </channel>
+  </rss>

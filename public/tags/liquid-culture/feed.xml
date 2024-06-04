@@ -1,0 +1,44 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Psychedelic Bible</title>
+      <link>https://www.psychedelicbible.org/blog</link>
+      <description>Respectful Insightful Chemicals</description>
+      <language>en-us</language>
+      <managingEditor> (Psychedelic Bible)</managingEditor>
+      <webMaster> (Psychedelic Bible)</webMaster>
+      <lastBuildDate>Sun, 21 May 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.psychedelicbible.org/tags/liquid-culture/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/fungus/DtL</guid>
+    <title>Transforming Dried Mushrooms into Liquid Culture: A Modern Approach 🍄🔬</title>
+    <link>https://www.psychedelicbible.org/blog/fungus/DtL</link>
+    <description>Learn how to transform dried mushrooms into a thriving liquid culture using advanced techniques and the potential benefits of NAD+. Discover the step-by-step process and scientific insights behind this innovative approach. 🍄🔬</description>
+    <pubDate>Sun, 21 May 2023 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>Mushroom Cultivation</category><category>Liquid Culture</category><category>Fungi</category><category>Mycology</category><category>NAD+</category><category>Bioengineering</category><category>Agriculture</category><category>Science</category>
+  </item>
+
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/MushroomGrow/the_quick_and_dirty_liquid_culture_tek_streamlining_your_inoculation_process</guid>
+    <title>The Quick and Dirty Liquid Culture Tek: Streamlining Your Inoculation Process</title>
+    <link>https://www.psychedelicbible.org/blog/MushroomGrow/the_quick_and_dirty_liquid_culture_tek_streamlining_your_inoculation_process</link>
+    <description>Harness the art and science of liquid culture for efficient mushroom growth, blending advanced mycology with ancient shamanic wisdom.</description>
+    <pubDate>Wed, 21 Sep 2022 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>mushroom cultivation</category><category>psychedelics</category><category>liquid culture</category><category>science</category><category>mysticism</category><category>shamanism</category>
+  </item>
+
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/MushroomGrow/the_alchemical_elixir_benefits_of_using_liquid_culture_in_mushroom_cultivation</guid>
+    <title>The Alchemical Elixir: Benefits of Using Liquid Culture in Mushroom Cultivation</title>
+    <link>https://www.psychedelicbible.org/blog/MushroomGrow/the_alchemical_elixir_benefits_of_using_liquid_culture_in_mushroom_cultivation</link>
+    <description>Dive deep into the mystical and scientific realms as we explore the myriad benefits of using liquid culture in mushroom cultivation. From accelerating growth to increasing yields, discover how this technique revolutionizes the ancient practice.</description>
+    <pubDate>Sun, 13 Oct 2019 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>Mushroom Cultivation</category><category>Liquid Culture</category><category>Mycology</category><category>Psychedelics</category><category>Shamanic Wisdom</category><category>Biotechnology</category><category>Fungi</category><category>Science</category><category>Mysticism</category>
+  </item>
+
+    </channel>
+  </rss>

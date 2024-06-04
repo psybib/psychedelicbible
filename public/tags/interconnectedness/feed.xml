@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Psychedelic Bible</title>
+      <link>https://www.psychedelicbible.org/blog</link>
+      <description>Respectful Insightful Chemicals</description>
+      <language>en-us</language>
+      <managingEditor> (Psychedelic Bible)</managingEditor>
+      <webMaster> (Psychedelic Bible)</webMaster>
+      <lastBuildDate>Tue, 17 Oct 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.psychedelicbible.org/tags/interconnectedness/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/how_psychedelics_foster_a_profound_connection_with_nature_and_the_interconnectedness_of_life</guid>
+    <title>How Psychedelics Foster a Profound Connection with Nature and the Interconnectedness of Life</title>
+    <link>https://www.psychedelicbible.org/blog/how_psychedelics_foster_a_profound_connection_with_nature_and_the_interconnectedness_of_life</link>
+    <description>Discover how psychedelics can deepen our appreciation for nature and highlight the interconnectedness of all life, revealing profound insights about our place in the universe.</description>
+    <pubDate>Tue, 17 Oct 2023 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>Psychedelics</category><category>Nature</category><category>Interconnectedness</category><category>Mental Health</category>
+  </item>
+
+    </channel>
+  </rss>

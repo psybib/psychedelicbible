@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Psychedelic Bible</title>
+      <link>https://www.psychedelicbible.org/blog</link>
+      <description>Respectful Insightful Chemicals</description>
+      <language>en-us</language>
+      <managingEditor> (Psychedelic Bible)</managingEditor>
+      <webMaster> (Psychedelic Bible)</webMaster>
+      <lastBuildDate>Thu, 12 Oct 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.psychedelicbible.org/tags/cold-remedy/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/remedy/how_to_prepare_a_natural_ginger_and_lemon_cold_remedy</guid>
+    <title>How to Prepare a Natural Ginger and Lemon Cold Remedy</title>
+    <link>https://www.psychedelicbible.org/blog/remedy/how_to_prepare_a_natural_ginger_and_lemon_cold_remedy</link>
+    <description>This blog post provides a comprehensive guide to preparing a natural ginger and lemon cold remedy, including tutorials and best practices.</description>
+    <pubDate>Thu, 12 Oct 2023 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>Holistic Healing</category><category>Natural Remedies</category><category>Cold Remedy</category>
+  </item>
+
+    </channel>
+  </rss>

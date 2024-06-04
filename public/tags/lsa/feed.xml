@@ -1,0 +1,34 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Psychedelic Bible</title>
+      <link>https://www.psychedelicbible.org/blog</link>
+      <description>Respectful Insightful Chemicals</description>
+      <language>en-us</language>
+      <managingEditor> (Psychedelic Bible)</managingEditor>
+      <webMaster> (Psychedelic Bible)</webMaster>
+      <lastBuildDate>Thu, 05 Oct 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.psychedelicbible.org/tags/lsa/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/exploring_the_potential_benefits_and_risks_of_hawaiian_baby_woodrose_seeds_natural_lsa</guid>
+    <title>Exploring the Potential Benefits and Risks of Hawaiian Baby Woodrose Seeds: Natural LSA</title>
+    <link>https://www.psychedelicbible.org/blog/exploring_the_potential_benefits_and_risks_of_hawaiian_baby_woodrose_seeds_natural_lsa</link>
+    <description>A deep dive into the advantages and potential dangers of using Hawaiian Baby Woodrose seeds, a natural source of LSA (Lysergic Acid Amide), and their impact on health and wellness.</description>
+    <pubDate>Thu, 05 Oct 2023 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>Psychedelics</category><category>LSA</category><category>Health</category><category>Wellness</category>
+  </item>
+
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/Health/Ergot</guid>
+    <title>From the Eleusinian Mysteries to the Salem Witch Trials: The Role of Ergot and LSA in History 🌾🔮</title>
+    <link>https://www.psychedelicbible.org/blog/Health/Ergot</link>
+    <description>Explore the fascinating connections between the ancient Eleusinian Mysteries, the psychoactive properties of ergot and LSA, and the infamous Salem Witch Trials. Delve into how these elements intersected to shape pivotal moments in history. 🌾🔮</description>
+    <pubDate>Mon, 02 May 2022 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>Eleusinian Mysteries</category><category>Ergot</category><category>LSA</category><category>Salem Witch Trials</category><category>Psychedelics</category><category>History</category><category>Mysticism</category><category>Anthropology</category><category>Ancient Cultures</category>
+  </item>
+
+    </channel>
+  </rss>

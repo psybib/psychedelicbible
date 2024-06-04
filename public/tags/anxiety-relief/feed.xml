@@ -1,0 +1,34 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Psychedelic Bible</title>
+      <link>https://www.psychedelicbible.org/blog</link>
+      <description>Respectful Insightful Chemicals</description>
+      <language>en-us</language>
+      <managingEditor> (Psychedelic Bible)</managingEditor>
+      <webMaster> (Psychedelic Bible)</webMaster>
+      <lastBuildDate>Sat, 14 Oct 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.psychedelicbible.org/tags/anxiety-relief/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/remedy/guide_to_making_a_natural_lemon_balm_tea_for_anxiety_relief</guid>
+    <title>Guide to Making a Natural Lemon Balm Tea for Anxiety Relief</title>
+    <link>https://www.psychedelicbible.org/blog/remedy/guide_to_making_a_natural_lemon_balm_tea_for_anxiety_relief</link>
+    <description>Discover the therapeutic benefits of Lemon Balm Tea and learn how to prepare it for natural anxiety relief.</description>
+    <pubDate>Sat, 14 Oct 2023 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>Anxiety Relief</category><category>Natural Remedies</category><category>Lemon Balm Tea</category>
+  </item>
+
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/remedy/harnessing_the_power_of_passionflower_creating_a_herbal_tincture_for_anxiety</guid>
+    <title>Harnessing the Power of Passionflower: Creating a Herbal Tincture for Anxiety</title>
+    <link>https://www.psychedelicbible.org/blog/remedy/harnessing_the_power_of_passionflower_creating_a_herbal_tincture_for_anxiety</link>
+    <description>Discover the ancient wisdom and modern techniques of crafting a passionflower tincture to calm the mind and soothe the spirit.</description>
+    <pubDate>Thu, 05 Oct 2023 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>Herbal Remedies</category><category>Anxiety Relief</category><category>Holistic Healing</category>
+  </item>
+
+    </channel>
+  </rss>

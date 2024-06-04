@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Psychedelic Bible</title>
+      <link>https://www.psychedelicbible.org/blog</link>
+      <description>Respectful Insightful Chemicals</description>
+      <language>en-us</language>
+      <managingEditor> (Psychedelic Bible)</managingEditor>
+      <webMaster> (Psychedelic Bible)</webMaster>
+      <lastBuildDate>Sun, 01 Oct 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.psychedelicbible.org/tags/oral-health/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/remedy/making_a_diy_herbal_mouth_rinse_with_clove_and_cinnamon</guid>
+    <title>Making a DIY Herbal Mouth Rinse with Clove and Cinnamon</title>
+    <link>https://www.psychedelicbible.org/blog/remedy/making_a_diy_herbal_mouth_rinse_with_clove_and_cinnamon</link>
+    <description>Discover how to craft a potent and refreshing herbal mouth rinse using the natural antiseptic properties of clove and cinnamon. Perfect for enhancing oral hygiene and freshening your breath.</description>
+    <pubDate>Sun, 01 Oct 2023 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>Herbal Remedies</category><category>DIY</category><category>Oral Health</category>
+  </item>
+
+    </channel>
+  </rss>

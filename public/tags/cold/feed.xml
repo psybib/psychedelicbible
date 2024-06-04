@@ -1,0 +1,34 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Psychedelic Bible</title>
+      <link>https://www.psychedelicbible.org/blog</link>
+      <description>Respectful Insightful Chemicals</description>
+      <language>en-us</language>
+      <managingEditor> (Psychedelic Bible)</managingEditor>
+      <webMaster> (Psychedelic Bible)</webMaster>
+      <lastBuildDate>Sun, 01 Oct 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.psychedelicbible.org/tags/cold/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/remedy/creating_a_natural_honey_and_cinnamon_cold_remedy</guid>
+    <title>Creating a Natural Honey and Cinnamon Cold Remedy</title>
+    <link>https://www.psychedelicbible.org/blog/remedy/creating_a_natural_honey_and_cinnamon_cold_remedy</link>
+    <description>Discover the healing power of honey and cinnamon to cure colds naturally. Learn best practices, tips, and the science behind these powerful natural ingredients.</description>
+    <pubDate>Sun, 01 Oct 2023 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>Natural Remedies</category><category>Cold</category><category>Holistic Healing</category>
+  </item>
+
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/Idols/Wim</guid>
+    <title>❄️ Wim Hof: The Iceman, His Revolutionary Breathing Method, and Extraordinary Feats ❄️</title>
+    <link>https://www.psychedelicbible.org/blog/Idols/Wim</link>
+    <description>Explore the life and achievements of Wim Hof, the Iceman, and learn about his groundbreaking Wim Hof Method that combines cold exposure, breathing techniques, and meditation.</description>
+    <pubDate>Mon, 24 Apr 2023 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>WimHof</category><category>Breathing</category><category>Cold</category>
+  </item>
+
+    </channel>
+  </rss>

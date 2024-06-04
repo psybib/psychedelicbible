@@ -1,0 +1,54 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Psychedelic Bible</title>
+      <link>https://www.psychedelicbible.org/blog</link>
+      <description>Respectful Insightful Chemicals</description>
+      <language>en-us</language>
+      <managingEditor> (Psychedelic Bible)</managingEditor>
+      <webMaster> (Psychedelic Bible)</webMaster>
+      <lastBuildDate>Wed, 11 Oct 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.psychedelicbible.org/tags/research/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/psychedelics_in_psyche_current_research_on_treating_personality_disorders</guid>
+    <title>Psychedelics in Psyche: Current Research on Treating Personality Disorders</title>
+    <link>https://www.psychedelicbible.org/blog/psychedelics_in_psyche_current_research_on_treating_personality_disorders</link>
+    <description>Dive into the fascinating world of psychedelics and explore how cutting-edge research is investigating their potential to treat personality disorders like Borderline Personality Disorder (BPD).</description>
+    <pubDate>Wed, 11 Oct 2023 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>Psychedelics</category><category>Research</category><category>Personality Disorders</category><category>BPD</category><category>Mental Health</category>
+  </item>
+
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/the_revolutionary_frontier_psychedelics_in_neurological_health</guid>
+    <title>The Revolutionary Frontier: Psychedelics in Neurological Health</title>
+    <link>https://www.psychedelicbible.org/blog/the_revolutionary_frontier_psychedelics_in_neurological_health</link>
+    <description>Dive into the cutting-edge research exploring the use of psychedelics in treating cluster headaches and other neurological conditions. Discover how these once-taboo substances are making a comeback in the medical field.</description>
+    <pubDate>Sun, 01 Oct 2023 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>Psychedelics</category><category>Neurology</category><category>Research</category>
+  </item>
+
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/unraveling_the_history_of_psychedelic_criminalization_and_its_impact_on_research_and_public_perception</guid>
+    <title>Unraveling the History of Psychedelic Criminalization and its Impact on Research and Public Perception</title>
+    <link>https://www.psychedelicbible.org/blog/unraveling_the_history_of_psychedelic_criminalization_and_its_impact_on_research_and_public_perception</link>
+    <description>Dive into the historical context of psychedelic criminalization, its effects on scientific research, and how public perception has evolved over the decades.</description>
+    <pubDate>Sun, 01 Oct 2023 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>Psychedelics</category><category>History</category><category>Research</category><category>Public Perception</category>
+  </item>
+
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/Health/CB</guid>
+    <title>Exploring the Potential Benefits of 2C-B: A Promising Avenue for Nootropics and Antidepressants 💊✨</title>
+    <link>https://www.psychedelicbible.org/blog/Health/CB</link>
+    <description>Delve into the potential benefits of 2C-B, a psychedelic compound with promising applications in nootropics and antidepressants. Explore its pharmacological properties, therapeutic potential, and the current state of research. 💊🧠🌟</description>
+    <pubDate>Sun, 01 May 2022 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>Nootropics</category><category>Antidepressants</category><category>2C-B</category><category>Mental Health</category><category>Psychedelics</category><category>Pharmacology</category><category>Cognitive Enhancement</category><category>Mood Disorders</category><category>Research</category>
+  </item>
+
+    </channel>
+  </rss>

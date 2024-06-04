@@ -1,0 +1,54 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Psychedelic Bible</title>
+      <link>https://www.psychedelicbible.org/blog</link>
+      <description>Respectful Insightful Chemicals</description>
+      <language>en-us</language>
+      <managingEditor> (Psychedelic Bible)</managingEditor>
+      <webMaster> (Psychedelic Bible)</webMaster>
+      <lastBuildDate>Wed, 01 Nov 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.psychedelicbible.org/tags/calendula/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/remedy/how_to_make_your_own_calendula_salve_for_skin_irritations</guid>
+    <title>How to Make Your Own Calendula Salve for Skin Irritations</title>
+    <link>https://www.psychedelicbible.org/blog/remedy/how_to_make_your_own_calendula_salve_for_skin_irritations</link>
+    <description>Learn the ancient art of crafting your own calendula salve, a potent remedy for skin irritations, using simple natural ingredients and holistic techniques.</description>
+    <pubDate>Wed, 01 Nov 2023 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>Calendula</category><category>Natural Remedies</category><category>DIY</category>
+  </item>
+
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/remedy/guide_to_crafting_a_homemade_calendula_and_comfrey_healing_salve</guid>
+    <title>Guide to Crafting a Homemade Calendula and Comfrey Healing Salve</title>
+    <link>https://www.psychedelicbible.org/blog/remedy/guide_to_crafting_a_homemade_calendula_and_comfrey_healing_salve</link>
+    <description>Discover how to create a healing salve using calendula and comfrey, combining ancient wisdom with modern practices.</description>
+    <pubDate>Sun, 15 Oct 2023 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>Healing Salves</category><category>Calendula</category><category>Comfrey</category><category>Natural Remedies</category>
+  </item>
+
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/remedy/how_to_make_your_own_calendula_oil_for_skin_healing</guid>
+    <title>How to Make Your Own Calendula Oil for Skin Healing</title>
+    <link>https://www.psychedelicbible.org/blog/remedy/how_to_make_your_own_calendula_oil_for_skin_healing</link>
+    <description>Learn to create your own calendula oil, a powerful remedy for skin healing, with this in-depth guide and tutorial.</description>
+    <pubDate>Mon, 02 Oct 2023 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>Calendula</category><category>Natural Remedies</category><category>Skin Healing</category>
+  </item>
+
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/remedy/crafting_a_diy_yarrow_and_calendula_healing_balm_for_cuts_and_scrapes</guid>
+    <title>Crafting a DIY Yarrow and Calendula Healing Balm for Cuts and Scrapes</title>
+    <link>https://www.psychedelicbible.org/blog/remedy/crafting_a_diy_yarrow_and_calendula_healing_balm_for_cuts_and_scrapes</link>
+    <description>Explore the ancient wisdom and modern techniques in creating a powerful DIY healing balm using yarrow and calendula to aid in cuts and scrapes recovery.</description>
+    <pubDate>Sun, 01 Oct 2023 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>Yarrow</category><category>Calendula</category><category>Healing Balm</category><category>DIY</category><category>Natural Remedies</category>
+  </item>
+
+    </channel>
+  </rss>

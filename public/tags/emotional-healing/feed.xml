@@ -1,0 +1,34 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Psychedelic Bible</title>
+      <link>https://www.psychedelicbible.org/blog</link>
+      <description>Respectful Insightful Chemicals</description>
+      <language>en-us</language>
+      <managingEditor> (Psychedelic Bible)</managingEditor>
+      <webMaster> (Psychedelic Bible)</webMaster>
+      <lastBuildDate>Fri, 06 Oct 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.psychedelicbible.org/tags/emotional-healing/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/exploring_the_healing_power_of_san_pedro_cactus_emotional_healing_and_self_discovery</guid>
+    <title>Exploring the Healing Power of San Pedro Cactus: Emotional Healing and Self-Discovery</title>
+    <link>https://www.psychedelicbible.org/blog/exploring_the_healing_power_of_san_pedro_cactus_emotional_healing_and_self_discovery</link>
+    <description>A deep dive into how the San Pedro cactus can be a tool for emotional healing and self-discovery, blending ancient traditions with modern understanding.</description>
+    <pubDate>Fri, 06 Oct 2023 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>San Pedro Cactus</category><category>Emotional Healing</category><category>Self-Discovery</category>
+  </item>
+
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/psychedelics_and_emotional_healing_unlocking_the_power_of_forgiveness_and_letting_go</guid>
+    <title>Psychedelics and Emotional Healing: Unlocking the Power of Forgiveness and Letting Go</title>
+    <link>https://www.psychedelicbible.org/blog/psychedelics_and_emotional_healing_unlocking_the_power_of_forgiveness_and_letting_go</link>
+    <description>Exploring how psychedelics can promote a greater sense of forgiveness, letting go, and emotional healing through altered states of consciousness.</description>
+    <pubDate>Sun, 01 Oct 2023 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>Psychedelics</category><category>Emotional Healing</category><category>Mental Health</category>
+  </item>
+
+    </channel>
+  </rss>

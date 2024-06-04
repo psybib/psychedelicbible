@@ -1,0 +1,44 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Psychedelic Bible</title>
+      <link>https://www.psychedelicbible.org/blog</link>
+      <description>Respectful Insightful Chemicals</description>
+      <language>en-us</language>
+      <managingEditor> (Psychedelic Bible)</managingEditor>
+      <webMaster> (Psychedelic Bible)</webMaster>
+      <lastBuildDate>Sun, 29 Oct 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.psychedelicbible.org/tags/licorice-root/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/remedy/crafting_a_soothing_digestive_aid_the_wonders_of_licorice_root_tea</guid>
+    <title>Crafting a Soothing Digestive Aid: The Wonders of Licorice Root Tea</title>
+    <link>https://www.psychedelicbible.org/blog/remedy/crafting_a_soothing_digestive_aid_the_wonders_of_licorice_root_tea</link>
+    <description>Explore the holistic and scientific benefits of Licorice Root Tea, an effective natural remedy for digestive discomfort.</description>
+    <pubDate>Sun, 29 Oct 2023 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>Herbal Medicine</category><category>Digestive Health</category><category>Licorice Root</category>
+  </item>
+
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/remedy/using_licorice_root_to_make_a_soothing_herbal_cough_syrup</guid>
+    <title>Using Licorice Root to Make a Soothing Herbal Cough Syrup</title>
+    <link>https://www.psychedelicbible.org/blog/remedy/using_licorice_root_to_make_a_soothing_herbal_cough_syrup</link>
+    <description>Explore the art and science of crafting your own natural cough syrup using the potent properties of licorice root. Embrace a holistic approach to alleviate throat discomfort and coughing with this in-depth guide.</description>
+    <pubDate>Tue, 10 Oct 2023 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>Herbal Remedies</category><category>Licorice Root</category><category>Natural Cough Syrup</category>
+  </item>
+
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/remedy/harnessing_the_power_of_licorice_root_a_natural_remedy_for_sore_throat_relief</guid>
+    <title>Harnessing the Power of Licorice Root: A Natural Remedy for Sore Throat Relief</title>
+    <link>https://www.psychedelicbible.org/blog/remedy/harnessing_the_power_of_licorice_root_a_natural_remedy_for_sore_throat_relief</link>
+    <description>Explore the ancient wisdom and modern science behind using licorice root to create an effective and soothing sore throat tea.</description>
+    <pubDate>Wed, 04 Oct 2023 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>Herbal Medicine</category><category>Natural Remedies</category><category>Licorice Root</category>
+  </item>
+
+    </channel>
+  </rss>

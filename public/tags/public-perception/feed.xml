@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Psychedelic Bible</title>
+      <link>https://www.psychedelicbible.org/blog</link>
+      <description>Respectful Insightful Chemicals</description>
+      <language>en-us</language>
+      <managingEditor> (Psychedelic Bible)</managingEditor>
+      <webMaster> (Psychedelic Bible)</webMaster>
+      <lastBuildDate>Sun, 01 Oct 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.psychedelicbible.org/tags/public-perception/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/unraveling_the_history_of_psychedelic_criminalization_and_its_impact_on_research_and_public_perception</guid>
+    <title>Unraveling the History of Psychedelic Criminalization and its Impact on Research and Public Perception</title>
+    <link>https://www.psychedelicbible.org/blog/unraveling_the_history_of_psychedelic_criminalization_and_its_impact_on_research_and_public_perception</link>
+    <description>Dive into the historical context of psychedelic criminalization, its effects on scientific research, and how public perception has evolved over the decades.</description>
+    <pubDate>Sun, 01 Oct 2023 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>Psychedelics</category><category>History</category><category>Research</category><category>Public Perception</category>
+  </item>
+
+    </channel>
+  </rss>

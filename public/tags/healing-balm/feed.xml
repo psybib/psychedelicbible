@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Psychedelic Bible</title>
+      <link>https://www.psychedelicbible.org/blog</link>
+      <description>Respectful Insightful Chemicals</description>
+      <language>en-us</language>
+      <managingEditor> (Psychedelic Bible)</managingEditor>
+      <webMaster> (Psychedelic Bible)</webMaster>
+      <lastBuildDate>Sun, 01 Oct 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.psychedelicbible.org/tags/healing-balm/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/remedy/crafting_a_diy_yarrow_and_calendula_healing_balm_for_cuts_and_scrapes</guid>
+    <title>Crafting a DIY Yarrow and Calendula Healing Balm for Cuts and Scrapes</title>
+    <link>https://www.psychedelicbible.org/blog/remedy/crafting_a_diy_yarrow_and_calendula_healing_balm_for_cuts_and_scrapes</link>
+    <description>Explore the ancient wisdom and modern techniques in creating a powerful DIY healing balm using yarrow and calendula to aid in cuts and scrapes recovery.</description>
+    <pubDate>Sun, 01 Oct 2023 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>Yarrow</category><category>Calendula</category><category>Healing Balm</category><category>DIY</category><category>Natural Remedies</category>
+  </item>
+
+    </channel>
+  </rss>

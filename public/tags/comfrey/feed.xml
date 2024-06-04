@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Psychedelic Bible</title>
+      <link>https://www.psychedelicbible.org/blog</link>
+      <description>Respectful Insightful Chemicals</description>
+      <language>en-us</language>
+      <managingEditor> (Psychedelic Bible)</managingEditor>
+      <webMaster> (Psychedelic Bible)</webMaster>
+      <lastBuildDate>Sun, 15 Oct 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.psychedelicbible.org/tags/comfrey/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/remedy/guide_to_crafting_a_homemade_calendula_and_comfrey_healing_salve</guid>
+    <title>Guide to Crafting a Homemade Calendula and Comfrey Healing Salve</title>
+    <link>https://www.psychedelicbible.org/blog/remedy/guide_to_crafting_a_homemade_calendula_and_comfrey_healing_salve</link>
+    <description>Discover how to create a healing salve using calendula and comfrey, combining ancient wisdom with modern practices.</description>
+    <pubDate>Sun, 15 Oct 2023 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>Healing Salves</category><category>Calendula</category><category>Comfrey</category><category>Natural Remedies</category>
+  </item>
+
+    </channel>
+  </rss>

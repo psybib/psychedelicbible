@@ -1,0 +1,34 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Psychedelic Bible</title>
+      <link>https://www.psychedelicbible.org/blog</link>
+      <description>Respectful Insightful Chemicals</description>
+      <language>en-us</language>
+      <managingEditor> (Psychedelic Bible)</managingEditor>
+      <webMaster> (Psychedelic Bible)</webMaster>
+      <lastBuildDate>Thu, 21 Mar 2024 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.psychedelicbible.org/tags/permaculture/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/MushroomGrow/how_to_incorporate_mushroom_cultivation_into_permaculture_systems</guid>
+    <title>How to Incorporate Mushroom Cultivation into Permaculture Systems</title>
+    <link>https://www.psychedelicbible.org/blog/MushroomGrow/how_to_incorporate_mushroom_cultivation_into_permaculture_systems</link>
+    <description>A journey into the symbiotic relationship between mushroom cultivation and permaculture. Explore the scientific principles and mystical wisdom that converge in sustainable ecosystems.</description>
+    <pubDate>Thu, 21 Mar 2024 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>mushroom cultivation</category><category>permaculture</category><category>psychedelics</category><category>sustainability</category><category>agriculture</category>
+  </item>
+
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/MushroomGrow/the_benefits_of_using_straw_as_a_mushroom_substrate</guid>
+    <title>The Benefits of Using Straw as a Mushroom Substrate</title>
+    <link>https://www.psychedelicbible.org/blog/MushroomGrow/the_benefits_of_using_straw_as_a_mushroom_substrate</link>
+    <description>Explore the holistic advantages of using straw as a substrate for mushroom cultivation, blending modern science with shamanic insights to reveal the secrets of this ancient practice.</description>
+    <pubDate>Sun, 21 May 2023 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>Mushroom Cultivation</category><category>Psychedelic Science</category><category>Shamanic Wisdom</category><category>Fungi</category><category>Agriculture</category><category>Sustainable Living</category><category>Permaculture</category><category>Holistic Health</category><category>Organic Farming</category>
+  </item>
+
+    </channel>
+  </rss>

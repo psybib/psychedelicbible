@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Psychedelic Bible</title>
+      <link>https://www.psychedelicbible.org/blog</link>
+      <description>Respectful Insightful Chemicals</description>
+      <language>en-us</language>
+      <managingEditor> (Psychedelic Bible)</managingEditor>
+      <webMaster> (Psychedelic Bible)</webMaster>
+      <lastBuildDate>Sun, 21 May 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.psychedelicbible.org/tags/indoor-growing/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/MushroomGrow/the_importance_of_proper_ventilation_in_mushroom_grow_rooms</guid>
+    <title>The Importance of Proper Ventilation in Mushroom Grow Rooms</title>
+    <link>https://www.psychedelicbible.org/blog/MushroomGrow/the_importance_of_proper_ventilation_in_mushroom_grow_rooms</link>
+    <description>A deep dive into the essential role of ventilation in mushroom cultivation. Blending scientific rigor with mystical insights, we explore how proper airflow promotes health and productivity in your grow room.</description>
+    <pubDate>Sun, 21 May 2023 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>mycology</category><category>mushroom cultivation</category><category>ventilation</category><category>indoor growing</category><category>fungiculture</category><category>shamanic wisdom</category><category>science</category><category>health</category><category>spores</category>
+  </item>
+
+    </channel>
+  </rss>

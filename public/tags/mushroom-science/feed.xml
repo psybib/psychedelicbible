@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Psychedelic Bible</title>
+      <link>https://www.psychedelicbible.org/blog</link>
+      <description>Respectful Insightful Chemicals</description>
+      <language>en-us</language>
+      <managingEditor> (Psychedelic Bible)</managingEditor>
+      <webMaster> (Psychedelic Bible)</webMaster>
+      <lastBuildDate>Fri, 21 Oct 2022 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.psychedelicbible.org/tags/mushroom-science/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/MushroomGrow/understanding_the_role_of_ph_in_mushroom_substrate_preparation</guid>
+    <title>Understanding the Role of pH in Mushroom Substrate Preparation</title>
+    <link>https://www.psychedelicbible.org/blog/MushroomGrow/understanding_the_role_of_ph_in_mushroom_substrate_preparation</link>
+    <description>A deep dive into the importance of pH balance in mushroom substrate preparation that blends modern scientific principles with ancient shamanic wisdom.</description>
+    <pubDate>Fri, 21 Oct 2022 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>mushroom cultivation</category><category>psychedelic mushrooms</category><category>pH balance</category><category>shamanic wisdom</category><category>science</category><category>substrate</category><category>mycology</category><category>mushroom science</category>
+  </item>
+
+    </channel>
+  </rss>

@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Psychedelic Bible</title>
+      <link>https://www.psychedelicbible.org/blog</link>
+      <description>Respectful Insightful Chemicals</description>
+      <language>en-us</language>
+      <managingEditor> (Psychedelic Bible)</managingEditor>
+      <webMaster> (Psychedelic Bible)</webMaster>
+      <lastBuildDate>Tue, 10 Oct 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.psychedelicbible.org/tags/rosehip/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/remedy/how_to_craft_a_natural_rosehip_syrup_for_immune_support</guid>
+    <title>How to Craft a Natural Rosehip Syrup for Immune Support</title>
+    <link>https://www.psychedelicbible.org/blog/remedy/how_to_craft_a_natural_rosehip_syrup_for_immune_support</link>
+    <description>Discover the ancient art of crafting rosehip syrup to bolster your immune system naturally, with a step-by-step guide that blends shamanic wisdom and advanced medical insights.</description>
+    <pubDate>Tue, 10 Oct 2023 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>Natural Remedies</category><category>Immune Support</category><category>Rosehip</category>
+  </item>
+
+    </channel>
+  </rss>

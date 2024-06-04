@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Psychedelic Bible</title>
+      <link>https://www.psychedelicbible.org/blog</link>
+      <description>Respectful Insightful Chemicals</description>
+      <language>en-us</language>
+      <managingEditor> (Psychedelic Bible)</managingEditor>
+      <webMaster> (Psychedelic Bible)</webMaster>
+      <lastBuildDate>Wed, 18 Oct 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.psychedelicbible.org/tags/sound/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/the_symphony_of_psyche_the_role_of_music_and_sound_in_guiding_and_enhancing_psychedelic_experiences</guid>
+    <title>The Symphony of Psyche: The Role of Music and Sound in Guiding and Enhancing Psychedelic Experiences</title>
+    <link>https://www.psychedelicbible.org/blog/the_symphony_of_psyche_the_role_of_music_and_sound_in_guiding_and_enhancing_psychedelic_experiences</link>
+    <description>Discover how music and sound can profoundly influence and enhance the transformative journey of psychedelic experiences, backed by scientific insights and cultural wisdom.</description>
+    <pubDate>Wed, 18 Oct 2023 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>Psychedelics</category><category>Music</category><category>Sound</category>
+  </item>
+
+    </channel>
+  </rss>

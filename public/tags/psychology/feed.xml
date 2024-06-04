@@ -1,0 +1,34 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Psychedelic Bible</title>
+      <link>https://www.psychedelicbible.org/blog</link>
+      <description>Respectful Insightful Chemicals</description>
+      <language>en-us</language>
+      <managingEditor> (Psychedelic Bible)</managingEditor>
+      <webMaster> (Psychedelic Bible)</webMaster>
+      <lastBuildDate>Thu, 04 May 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.psychedelicbible.org/tags/psychology/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/Idols/RamDass</guid>
+    <title>Ram Dass: Pioneering Spiritual Teacher, Psychedelic Explorer</title>
+    <link>https://www.psychedelicbible.org/blog/Idols/RamDass</link>
+    <description>Discover the life and teachings of Ram Dass, the influential spiritual teacher who bridged Eastern wisdom and Western psychology. Learn about his transformative journey with psychedelics, his groundbreaking book &quot;Be Here Now,&quot; and how he introduced a new understanding of spirituality to the Western world.</description>
+    <pubDate>Thu, 04 May 2023 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>Spirituality</category><category>Psychology</category><category>Be Here Now</category>
+  </item>
+
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/Idols/TimLeary</guid>
+    <title>Timothy Leary: The Psychedelic Pioneer Who Expanded Consciousness</title>
+    <link>https://www.psychedelicbible.org/blog/Idols/TimLeary</link>
+    <description>Explore the life and legacy of Timothy Leary, the controversial psychologist and countercultural icon who advocated for the therapeutic and transformative potential of psychedelic drugs</description>
+    <pubDate>Tue, 04 May 2021 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>Psychology</category><category>Consciousness</category><category>Counterculture</category>
+  </item>
+
+    </channel>
+  </rss>

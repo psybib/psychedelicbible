@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Psychedelic Bible</title>
+      <link>https://www.psychedelicbible.org/blog</link>
+      <description>Respectful Insightful Chemicals</description>
+      <language>en-us</language>
+      <managingEditor> (Psychedelic Bible)</managingEditor>
+      <webMaster> (Psychedelic Bible)</webMaster>
+      <lastBuildDate>Tue, 03 Oct 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.psychedelicbible.org/tags/mint/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/remedy/creating_a_natural_aloe_and_mint_cooling_gel_for_sunburn_relief</guid>
+    <title>Creating a Natural Aloe and Mint Cooling Gel for Sunburn Relief</title>
+    <link>https://www.psychedelicbible.org/blog/remedy/creating_a_natural_aloe_and_mint_cooling_gel_for_sunburn_relief</link>
+    <description>Learn how to craft a natural and soothing gel using aloe vera and mint to alleviate sunburn and nurture your skin.</description>
+    <pubDate>Tue, 03 Oct 2023 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>Herbal Remedies</category><category>Aloe Vera</category><category>Mint</category>
+  </item>
+
+    </channel>
+  </rss>

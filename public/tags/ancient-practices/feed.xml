@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Psychedelic Bible</title>
+      <link>https://www.psychedelicbible.org/blog</link>
+      <description>Respectful Insightful Chemicals</description>
+      <language>en-us</language>
+      <managingEditor> (Psychedelic Bible)</managingEditor>
+      <webMaster> (Psychedelic Bible)</webMaster>
+      <lastBuildDate>Fri, 16 Oct 2015 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.psychedelicbible.org/tags/ancient-practices/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/Culture/historical_accounts_of_ergot_and_its_use_in_mystical_practices</guid>
+    <title>Exploring the History and Mystical Legacy of Ergot</title>
+    <link>https://www.psychedelicbible.org/blog/Culture/historical_accounts_of_ergot_and_its_use_in_mystical_practices</link>
+    <description>Unravel the rich history and mystical allure of ergot, a powerful fungus that has influenced cultures, inspired religious rituals, and led to groundbreaking scientific discoveries. Combining ancient wisdom with modern science, this article illuminates ergots past, present, and future potential.</description>
+    <pubDate>Fri, 16 Oct 2015 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>Psychedelics</category><category>History</category><category>Mysticism</category><category>Ergot</category><category>Ancient Practices</category><category>Chemistry</category><category>LSD</category><category>Modern Science</category>
+  </item>
+
+    </channel>
+  </rss>

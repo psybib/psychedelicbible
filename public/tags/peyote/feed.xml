@@ -1,0 +1,34 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Psychedelic Bible</title>
+      <link>https://www.psychedelicbible.org/blog</link>
+      <description>Respectful Insightful Chemicals</description>
+      <language>en-us</language>
+      <managingEditor> (Psychedelic Bible)</managingEditor>
+      <webMaster> (Psychedelic Bible)</webMaster>
+      <lastBuildDate>Wed, 01 Nov 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.psychedelicbible.org/tags/peyote/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/the_cultural_significance_of_peyote_in_native_american_ceremonies</guid>
+    <title>The Cultural Significance of Peyote in Native American Ceremonies</title>
+    <link>https://www.psychedelicbible.org/blog/the_cultural_significance_of_peyote_in_native_american_ceremonies</link>
+    <description>Dive into the rich traditions and profound cultural importance of peyote in Native American ceremonies.</description>
+    <pubDate>Wed, 01 Nov 2023 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>Culture</category><category>Peyote</category><category>Native American</category>
+  </item>
+
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/Mescalito/how_peyote_was_used_by_native_american_tribes_for_spiritual_journeys</guid>
+    <title>How Peyote Was Used by Native American Tribes</title>
+    <link>https://www.psychedelicbible.org/blog/Mescalito/how_peyote_was_used_by_native_american_tribes_for_spiritual_journeys</link>
+    <description>Exploring the ancient, mystical use of Peyote among Native American tribes, combining shamanic wisdom and modern chemistry to unravel its spiritual and physiological effects.</description>
+    <pubDate>Mon, 18 Mar 2019 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>Peyote</category><category>Psychedelics</category><category>Native American</category><category>Spiritual Journeys</category>
+  </item>
+
+    </channel>
+  </rss>

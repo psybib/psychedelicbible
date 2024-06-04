@@ -1,0 +1,54 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Psychedelic Bible</title>
+      <link>https://www.psychedelicbible.org/blog</link>
+      <description>Respectful Insightful Chemicals</description>
+      <language>en-us</language>
+      <managingEditor> (Psychedelic Bible)</managingEditor>
+      <webMaster> (Psychedelic Bible)</webMaster>
+      <lastBuildDate>Thu, 05 Oct 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.psychedelicbible.org/tags/consciousness/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/unlocking_consciousness_the_role_of_psychedelics_in_understanding_reality</guid>
+    <title>Unlocking Consciousness: The Role of Psychedelics in Understanding Reality</title>
+    <link>https://www.psychedelicbible.org/blog/unlocking_consciousness_the_role_of_psychedelics_in_understanding_reality</link>
+    <description>Exploring how the responsible use of psychedelics can provide profound insights into the nature of consciousness and reality.</description>
+    <pubDate>Thu, 05 Oct 2023 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>Psychedelics</category><category>Consciousness</category><category>Technology</category><category>Innovation</category>
+  </item>
+
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/unveiling_the_universe_how_psychedelics_amplify_our_sense_of_awe_and_wonder</guid>
+    <title>Unveiling the Universe: How Psychedelics Amplify Our Sense of Awe and Wonder</title>
+    <link>https://www.psychedelicbible.org/blog/unveiling_the_universe_how_psychedelics_amplify_our_sense_of_awe_and_wonder</link>
+    <description>Explore how psychedelics open the doors to a profound sense of awe, wonder, and reverence for the mysteries of existence, touching the deepest layers of our consciousness.</description>
+    <pubDate>Wed, 04 Oct 2023 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>Psychedelics</category><category>Consciousness</category><category>Existence</category>
+  </item>
+
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/Idols/McKenna</guid>
+    <title>Terence McKenna: The Poet-Philosopher Who Shaped the Psychedelic Renaissance</title>
+    <link>https://www.psychedelicbible.org/blog/Idols/McKenna</link>
+    <description>Explore the life and cultural impact of Terence McKenna, the renowned ethnobotanist, philosopher, and psychedelic pioneer whose ideas and advocacy helped shape the modern psychedelic renaissance and influenced generations of thinkers, artists, and seekers of expanded consciousness.</description>
+    <pubDate>Tue, 04 May 2021 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>Consciousness</category><category>Counterculture</category><category>Philosophy</category>
+  </item>
+
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/Idols/TimLeary</guid>
+    <title>Timothy Leary: The Psychedelic Pioneer Who Expanded Consciousness</title>
+    <link>https://www.psychedelicbible.org/blog/Idols/TimLeary</link>
+    <description>Explore the life and legacy of Timothy Leary, the controversial psychologist and countercultural icon who advocated for the therapeutic and transformative potential of psychedelic drugs</description>
+    <pubDate>Tue, 04 May 2021 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>Psychology</category><category>Consciousness</category><category>Counterculture</category>
+  </item>
+
+    </channel>
+  </rss>

@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Psychedelic Bible</title>
+      <link>https://www.psychedelicbible.org/blog</link>
+      <description>Respectful Insightful Chemicals</description>
+      <language>en-us</language>
+      <managingEditor> (Psychedelic Bible)</managingEditor>
+      <webMaster> (Psychedelic Bible)</webMaster>
+      <lastBuildDate>Tue, 21 May 2024 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.psychedelicbible.org/tags/automation/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/MushroomGrow/the_benefits_of_using_automated_environmental_controls_in_mushroom_growing</guid>
+    <title>The Benefits of Using Automated Environmental Controls in Mushroom Growing</title>
+    <link>https://www.psychedelicbible.org/blog/MushroomGrow/the_benefits_of_using_automated_environmental_controls_in_mushroom_growing</link>
+    <description>Explore how integrating automated environmental controls in mushroom cultivation marries age-old shamanic wisdom with cutting-edge technology to yield benefits in growth efficiency, quality, and sustainability.</description>
+    <pubDate>Tue, 21 May 2024 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>mushroom growing</category><category>automation</category><category>environmental controls</category><category>psychedelics</category><category>shamanic wisdom</category><category>science</category><category>technology</category><category>mycology</category><category>sustainability</category>
+  </item>
+
+    </channel>
+  </rss>

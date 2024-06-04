@@ -1,0 +1,34 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Psychedelic Bible</title>
+      <link>https://www.psychedelicbible.org/blog</link>
+      <description>Respectful Insightful Chemicals</description>
+      <language>en-us</language>
+      <managingEditor> (Psychedelic Bible)</managingEditor>
+      <webMaster> (Psychedelic Bible)</webMaster>
+      <lastBuildDate>Tue, 10 Oct 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.psychedelicbible.org/tags/diy-skincare/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/remedy/crafting_natural_chamomile_and_lavender_body_butter_a_comprehensive_guide</guid>
+    <title>Crafting Natural Chamomile and Lavender Body Butter: A Comprehensive Guide</title>
+    <link>https://www.psychedelicbible.org/blog/remedy/crafting_natural_chamomile_and_lavender_body_butter_a_comprehensive_guide</link>
+    <description>Dive into the world of natural skincare with this step-by-step guide to creating your own chamomile and lavender body butter, blending ancient wisdom with modern scientific understanding.</description>
+    <pubDate>Tue, 10 Oct 2023 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>Holistic Healing</category><category>Plant Medicine</category><category>Natural Remedies</category><category>DIY Skincare</category>
+  </item>
+
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/remedy/diy_peppermint_and_lavender_cooling_foot_lotion_for_tired_feet</guid>
+    <title>DIY Peppermint and Lavender Cooling Foot Lotion for Tired Feet</title>
+    <link>https://www.psychedelicbible.org/blog/remedy/diy_peppermint_and_lavender_cooling_foot_lotion_for_tired_feet</link>
+    <description>Explore the therapeutic benefits of creating your own cooling foot lotion with peppermint and lavender. This guide will walk you through the ingredients, their benefits, and a step-by-step process to make your feet feel rejuvenated and pampered.</description>
+    <pubDate>Tue, 10 Oct 2023 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>Holistic Healing</category><category>Herbal Remedies</category><category>DIY Skincare</category>
+  </item>
+
+    </channel>
+  </rss>

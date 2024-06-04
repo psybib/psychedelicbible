@@ -1,0 +1,34 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Psychedelic Bible</title>
+      <link>https://www.psychedelicbible.org/blog</link>
+      <description>Respectful Insightful Chemicals</description>
+      <language>en-us</language>
+      <managingEditor> (Psychedelic Bible)</managingEditor>
+      <webMaster> (Psychedelic Bible)</webMaster>
+      <lastBuildDate>Fri, 13 Oct 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.psychedelicbible.org/tags/ginger/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/remedy/how_to_make_your_own_turmeric_and_ginger_anti_inflammatory_tea</guid>
+    <title>How to Make Your Own Turmeric and Ginger Anti-Inflammatory Tea</title>
+    <link>https://www.psychedelicbible.org/blog/remedy/how_to_make_your_own_turmeric_and_ginger_anti_inflammatory_tea</link>
+    <description>Dive into the beneficial world of Turmeric and Ginger with this comprehensive guide on crafting your own anti-inflammatory tea to support holistic health and wellness.</description>
+    <pubDate>Fri, 13 Oct 2023 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>Turmeric</category><category>Ginger</category><category>Anti-Inflammatory</category><category>Natural Remedies</category>
+  </item>
+
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/remedy/how_to_craft_a_natural_ginger_tea_for_digestive_health</guid>
+    <title>How to Craft a Natural Ginger Tea for Digestive Health</title>
+    <link>https://www.psychedelicbible.org/blog/remedy/how_to_craft_a_natural_ginger_tea_for_digestive_health</link>
+    <description>This post explores the ancient and modern science of ginger tea, with comprehensive tutorials on crafting the perfect brew for optimal digestive health.</description>
+    <pubDate>Thu, 05 Oct 2023 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>Ginger</category><category>Digestive Health</category><category>Natural Remedies</category>
+  </item>
+
+    </channel>
+  </rss>

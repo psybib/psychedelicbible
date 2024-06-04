@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Psychedelic Bible</title>
+      <link>https://www.psychedelicbible.org/blog</link>
+      <description>Respectful Insightful Chemicals</description>
+      <language>en-us</language>
+      <managingEditor> (Psychedelic Bible)</managingEditor>
+      <webMaster> (Psychedelic Bible)</webMaster>
+      <lastBuildDate>Wed, 21 Feb 2024 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.psychedelicbible.org/tags/contaminants/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/MushroomGrow/how_to_prevent_and_control_contaminants_in_mushroom_growing</guid>
+    <title>How to Prevent and Control Contaminants in Mushroom Growing</title>
+    <link>https://www.psychedelicbible.org/blog/MushroomGrow/how_to_prevent_and_control_contaminants_in_mushroom_growing</link>
+    <description>Dive into the science and shamanic wisdom behind preventing and controlling contaminants in mushroom cultivation.</description>
+    <pubDate>Wed, 21 Feb 2024 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>mycology</category><category>mushrooms</category><category>contaminants</category><category>growing tips</category><category>science</category><category>mysticism</category><category>fungiculture</category><category>hermetic wisdom</category><category>alchemy</category>
+  </item>
+
+    </channel>
+  </rss>

@@ -1,0 +1,7 @@
+# Allow all search engine robots to crawl and index the site
+User-agent: *
+Allow: /
+
+# Specify the location of the sitemap
+Sitemap: https://www.psychedelicbible.org/sitemap.xml
+

@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Psychedelic Bible</title>
+      <link>https://www.psychedelicbible.org/blog</link>
+      <description>Respectful Insightful Chemicals</description>
+      <language>en-us</language>
+      <managingEditor> (Psychedelic Bible)</managingEditor>
+      <webMaster> (Psychedelic Bible)</webMaster>
+      <lastBuildDate>Sun, 21 May 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.psychedelicbible.org/tags/journaling/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/MushroomGrow/the_importance_of_record_keeping_in_mushroom_cultivation</guid>
+    <title>The Importance of Record Keeping in Mushroom Cultivation</title>
+    <link>https://www.psychedelicbible.org/blog/MushroomGrow/the_importance_of_record_keeping_in_mushroom_cultivation</link>
+    <description>Master the art of mushroom cultivation by understanding the critical role record keeping plays in optimizing growth, enhancing yields, and ensuring consistency.</description>
+    <pubDate>Sun, 21 May 2023 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>Mushroom Cultivation</category><category>Psychedelics</category><category>Shamanic Wisdom</category><category>Science</category><category>Journaling</category><category>Mycology</category><category>Fungi</category><category>Horticulture</category><category>Data Management</category>
+  </item>
+
+    </channel>
+  </rss>

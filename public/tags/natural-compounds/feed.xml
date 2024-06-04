@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Psychedelic Bible</title>
+      <link>https://www.psychedelicbible.org/blog</link>
+      <description>Respectful Insightful Chemicals</description>
+      <language>en-us</language>
+      <managingEditor> (Psychedelic Bible)</managingEditor>
+      <webMaster> (Psychedelic Bible)</webMaster>
+      <lastBuildDate>Fri, 01 Oct 2021 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.psychedelicbible.org/tags/natural-compounds/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/exploring_the_potential_benefits_and_risks_of_morning_glory_seeds</guid>
+    <title>Exploring the Potential Benefits and Risks of Morning Glory Seeds</title>
+    <link>https://www.psychedelicbible.org/blog/exploring_the_potential_benefits_and_risks_of_morning_glory_seeds</link>
+    <description>Dive into the complex world of morning glory seeds, a natural source of LSA, and discover their benefits and risks.</description>
+    <pubDate>Fri, 01 Oct 2021 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>Health</category><category>Natural Compounds</category><category>Psychedelics</category>
+  </item>
+
+    </channel>
+  </rss>

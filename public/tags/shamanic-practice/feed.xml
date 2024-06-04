@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Psychedelic Bible</title>
+      <link>https://www.psychedelicbible.org/blog</link>
+      <description>Respectful Insightful Chemicals</description>
+      <language>en-us</language>
+      <managingEditor> (Psychedelic Bible)</managingEditor>
+      <webMaster> (Psychedelic Bible)</webMaster>
+      <lastBuildDate>Thu, 21 May 2020 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.psychedelicbible.org/tags/shamanic-practice/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/MushroomGrow/mastering_the_techniques_of_mushroom_log_inoculation</guid>
+    <title>Mastering the Techniques of Mushroom Log Inoculation</title>
+    <link>https://www.psychedelicbible.org/blog/MushroomGrow/mastering_the_techniques_of_mushroom_log_inoculation</link>
+    <description>A deep dive into the art and science of inoculating logs for mushroom cultivation, blending shamanic wisdom with meticulous scientific practice.</description>
+    <pubDate>Thu, 21 May 2020 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>mushrooms</category><category>psilocybin</category><category>inoculation</category><category>mycology</category><category>shamanic practice</category><category>science</category><category>DIY</category><category>organic gardening</category><category>fungi</category>
+  </item>
+
+    </channel>
+  </rss>

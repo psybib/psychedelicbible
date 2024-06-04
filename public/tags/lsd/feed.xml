@@ -1,0 +1,44 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Psychedelic Bible</title>
+      <link>https://www.psychedelicbible.org/blog</link>
+      <description>Respectful Insightful Chemicals</description>
+      <language>en-us</language>
+      <managingEditor> (Psychedelic Bible)</managingEditor>
+      <webMaster> (Psychedelic Bible)</webMaster>
+      <lastBuildDate>Thu, 21 Mar 2024 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.psychedelicbible.org/tags/lsd/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/Health/Microdosing</guid>
+    <title>From Silicon Valley to Soccer Moms: The Microdosing Revolution 🌟💡</title>
+    <link>https://www.psychedelicbible.org/blog/Health/Microdosing</link>
+    <description>Explore the growing trend of microdosing LSD and psilocybin mushrooms. From tech innovators in Silicon Valley to everyday soccer moms, discover how people are using these psychedelics to boost creativity, enhance mental health, and inspire new ideas. 🌟💡🍄</description>
+    <pubDate>Thu, 21 Mar 2024 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>Microdosing</category><category>LSD</category><category>Psilocybin Mushrooms</category><category>Creativity</category><category>Innovation</category><category>Mental Health</category><category>Silicon Valley</category><category>Parenting</category><category>Alternative Medicine</category>
+  </item>
+
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/the_risks_and_safety_considerations_of_psychedelics_like_lsd_and_dmt</guid>
+    <title>The Risks and Safety Considerations of Psychedelics like LSD and DMT</title>
+    <link>https://www.psychedelicbible.org/blog/the_risks_and_safety_considerations_of_psychedelics_like_lsd_and_dmt</link>
+    <description>Exploring the multifaceted aspects of safety when using psychedelics such as LSD and DMT, including mental health considerations, legal implications, and harm reduction practices.</description>
+    <pubDate>Fri, 13 Oct 2023 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>Psychedelics</category><category>Safety</category><category>LSD</category><category>DMT</category>
+  </item>
+
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/Culture/historical_accounts_of_ergot_and_its_use_in_mystical_practices</guid>
+    <title>Exploring the History and Mystical Legacy of Ergot</title>
+    <link>https://www.psychedelicbible.org/blog/Culture/historical_accounts_of_ergot_and_its_use_in_mystical_practices</link>
+    <description>Unravel the rich history and mystical allure of ergot, a powerful fungus that has influenced cultures, inspired religious rituals, and led to groundbreaking scientific discoveries. Combining ancient wisdom with modern science, this article illuminates ergots past, present, and future potential.</description>
+    <pubDate>Fri, 16 Oct 2015 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>Psychedelics</category><category>History</category><category>Mysticism</category><category>Ergot</category><category>Ancient Practices</category><category>Chemistry</category><category>LSD</category><category>Modern Science</category>
+  </item>
+
+    </channel>
+  </rss>

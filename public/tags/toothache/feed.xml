@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Psychedelic Bible</title>
+      <link>https://www.psychedelicbible.org/blog</link>
+      <description>Respectful Insightful Chemicals</description>
+      <language>en-us</language>
+      <managingEditor> (Psychedelic Bible)</managingEditor>
+      <webMaster> (Psychedelic Bible)</webMaster>
+      <lastBuildDate>Sat, 07 Oct 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.psychedelicbible.org/tags/toothache/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.psychedelicbible.org/blog/remedy/diy_clove_oil_for_toothache_relief</guid>
+    <title>DIY Clove Oil for Toothache Relief</title>
+    <link>https://www.psychedelicbible.org/blog/remedy/diy_clove_oil_for_toothache_relief</link>
+    <description>Learn how to make and use clove oil at home to relieve toothache naturally with this step-by-step guide.</description>
+    <pubDate>Sat, 07 Oct 2023 00:00:00 GMT</pubDate>
+    <author> (Psychedelic Bible)</author>
+    <category>Clove Oil</category><category>Natural Remedies</category><category>Toothache</category>
+  </item>
+
+    </channel>
+  </rss>

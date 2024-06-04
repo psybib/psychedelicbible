@@ -114,44 +114,44 @@ export default function ListLayout({ posts, title, initialDisplayPosts = [], pag
                 transition={{ duration: 0.4, ease: 'easeOut' }}
               >
                 <Link href={`/blog/${slug}`} aria-label={`Read "${title}"`}>
-                <article className="space-y-2 xl:grid xl:grid-cols-4 xl:items-baseline xl:space-y-0 p-4 rounded-lg">
-                  {' '}
-                  {/* Added padding and rounded corners */}
-                  <dl>
-                    <dt className="sr-only">Published on</dt>
-                    <dd className="text-base font-medium leading-6 text-lime-500 dark:text-lime-400">
-                      <time dateTime={date}>{formatDate(date)}</time>
-                    </dd>
-                  </dl>
-                  <div className="space-y-3 xl:col-span-3">
-                    <div>
-                      <h3 className="text-2xl font-bold leading-8 tracking-tight">
+                  <article className="space-y-2 xl:grid xl:grid-cols-4 xl:items-baseline xl:space-y-0 p-4 rounded-lg">
+                    {' '}
+                    {/* Added padding and rounded corners */}
+                    <dl>
+                      <dt className="sr-only">Published on</dt>
+                      <dd className="text-base font-medium leading-6 text-lime-500 dark:text-lime-400">
+                        <time dateTime={date}>{formatDate(date)}</time>
+                      </dd>
+                    </dl>
+                    <div className="space-y-3 xl:col-span-3">
+                      <div>
+                        <h3 className="text-2xl font-bold leading-8 tracking-tight">
+                          <Link
+                            href={`/blog/${slug}`}
+                            className="text-emerald-900 dark:text-emerald-100 hover:text-purple-600 dark:hover:text-purple-400 transition-colors duration-300 rounded-lg" // Added hover effect and smooth color transition
+                          >
+                            {title}
+                          </Link>
+                        </h3>
+                        {/* Tag list */}
+                        <div className="flex flex-wrap">
+                          {tags.map((tag) => (
+                            <div key={tag} className="p-1 mr-3 mb-3">
+                              <Tag text={tag} />
+                            </div>
+                          ))}
+                        </div>
+                      </div>
+                      <div className="prose max-w-none text-gray-500 dark:text-gray-400">
                         <Link
                           href={`/blog/${slug}`}
                           className="text-emerald-900 dark:text-emerald-100 hover:text-purple-600 dark:hover:text-purple-400 transition-colors duration-300 rounded-lg" // Added hover effect and smooth color transition
                         >
-                          {title}
+                          {summary}
                         </Link>
-                      </h3>
-                      {/* Tag list */}
-                      <div className="flex flex-wrap">
-                        {tags.map((tag) => (
-                          <div key={tag} className="p-1 mr-3 mb-3">
-                            <Tag text={tag} />
-                          </div>
-                        ))}
                       </div>
                     </div>
-                    <div className="prose max-w-none text-gray-500 dark:text-gray-400">
-                      <Link
-                        href={`/blog/${slug}`}
-                        className="text-emerald-900 dark:text-emerald-100 hover:text-purple-600 dark:hover:text-purple-400 transition-colors duration-300 rounded-lg" // Added hover effect and smooth color transition
-                      >
-                        {summary}
-                      </Link>
-                    </div>
-                  </div>
-                </article>
+                  </article>
                 </Link>
               </motion.li>
             )
